@@ -1,0 +1,733 @@
+<project version="4">
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="294">
+              <caret line="14" column="70" lean-forward="true" selection-start-line="14" selection-start-column="70" selection-end-line="14" selection-end-column="70" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/properties/jdbc.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="147">
+              <caret line="7" column="56" selection-start-line="7" selection-start-column="56" selection-end-line="7" selection-end-column="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/document/4.开发指南/合同状态与主题数据定时任务逻辑梳理.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/spring/spring-context-shiro-cas.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1092">
+              <caret line="52" column="43" selection-start-line="52" selection-start-column="43" selection-end-line="52" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/properties/app.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="231">
+              <caret line="11" column="37" selection-end-line="51" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/spring/spring-context-shiro.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="441">
+              <caret line="21" column="20" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/document/4.开发指南/数据归集注意事项.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="315">
+                <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>10</find>
+      <find>50</find>
+      <find>32</find>
+      <find>CHAR(1)</find>
+      <find>500</find>
+      <find>2</find>
+      <find>(2)</find>
+      <find>id   VARCHAR2(500)</find>
+      <find>id                         VARCHAR2(500)</find>
+      <find>id                          VARCHAR2(100)</find>
+      <find>合同金额</find>
+      <find>甲方项目联系人 : 甲方项目联系人</find>
+      <find>资金核定单号 : 资金核定单号</find>
+      <find>牵头单位 : 牵头单位</find>
+      <find>合同履约相关表</find>
+      <find>HTLY_LEGAL_ARCHIVES_LIST</find>
+      <find>lhjc</find>
+      <find>prompt</find>
+      <find>联合奖惩</find>
+      <find>初始化</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>50</replace>
+      <replace>VARCHAR2(100)</replace>
+      <replace>(10)</replace>
+      <replace>id   VARCHAR2(50)</replace>
+      <replace>合同金额(元)</replace>
+      <replace>htly</replace>
+      <replace>合同履约</replace>
+      <replace>牵头单位</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/document/2.数据库初始化脚本/Al1l.sql" />
+        <option value="$PROJECT_DIR$/document/2.数据库初始化脚本/All.sql" />
+        <option value="$PROJECT_DIR$/src/main/resources/spring/spring-context.xml" />
+        <option value="$PROJECT_DIR$/document/2.数据库初始化脚本/合同履约示例数据.sql" />
+        <option value="$PROJECT_DIR$/document/4.开发指南/数据归集注意事项.md" />
+        <option value="$PROJECT_DIR$/src/main/resources/spring/spring-context-shiro-cas.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/properties/jdbc.properties" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="htly-all" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="htly-all" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" x="-8" y="-8" width="1616" height="876" extendedState="6" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="产品-htly-all" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CreditService-HTLY-all" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="产品-htly-all" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CreditService-HTLY-all" type="462c0819:PsiDirectoryNode" />
+              <item name="document" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="产品-htly-all" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CreditService-HTLY-all" type="462c0819:PsiDirectoryNode" />
+              <item name="document" type="462c0819:PsiDirectoryNode" />
+              <item name="2.数据库初始化脚本" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="产品-htly-all" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CreditService-HTLY-all" type="462c0819:PsiDirectoryNode" />
+              <item name="document" type="462c0819:PsiDirectoryNode" />
+              <item name="4.开发指南" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="产品-htly-all" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CreditService-HTLY-all" type="462c0819:PsiDirectoryNode" />
+              <item name="overlays" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="产品-htly-all" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CreditService-HTLY-all" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="产品-htly-all" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CreditService-HTLY-all" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="产品-htly-all" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CreditService-HTLY-all" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="产品-htly-all" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CreditService-HTLY-all" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="产品-htly-all" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CreditService-HTLY-all" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="properties" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="产品-htly-all" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CreditService-HTLY-all" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="40740000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2768144" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Persistence" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Web" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32894737" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="7" />
+      <window_info anchor="bottom" id="Build" order="8" weight="0.32894737" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.32894737" />
+      <window_info anchor="bottom" id="Spring" order="10" />
+      <window_info anchor="bottom" id="Services" order="11" weight="0.41710526" />
+      <window_info anchor="bottom" id="Terminal" order="12" />
+      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
+      <window_info anchor="bottom" id="Java Enterprise" order="14" />
+      <window_info anchor="bottom" id="Database Changes" order="15" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="16" visible="true" weight="0.24868421" />
+      <window_info anchor="bottom" id="Endpoints" order="17" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Ant" order="3" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.13808607" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="RestServices" order="7" />
+      <window_info anchor="right" id="Bean Validation" order="8" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/document/2.数据库初始化脚本/Al1l.sql" />
+    <entry file="file://$PROJECT_DIR$/lhjc-all.iml" />
+    <entry file="file://$PROJECT_DIR$/document/2.数据库初始化脚本/All.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="61656">
+          <caret line="2936" column="61" selection-start-line="2936" selection-start-column="61" selection-end-line="2936" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring/spring-context-quartz.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/document/2.数据库初始化脚本/合同履约示例数据.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151368">
+          <caret line="7208" selection-start-line="7208" selection-end-line="7208" />
+          <folding>
+            <element signature="e#376451#376459#0" expanded="true" />
+            <element signature="e#377196#377202#0" expanded="true" />
+            <element signature="e#377929#377936#0" expanded="true" />
+            <element signature="e#380930#380940#0" expanded="true" />
+            <element signature="e#381665#381674#0" expanded="true" />
+            <element signature="e#382409#382419#0" expanded="true" />
+            <element signature="e#383169#383178#0" expanded="true" />
+            <element signature="e#383922#383929#0" expanded="true" />
+            <element signature="e#384669#384677#0" expanded="true" />
+            <element signature="e#387950#387958#0" expanded="true" />
+            <element signature="e#388290#388296#0" expanded="true" />
+            <element signature="e#388628#388635#0" expanded="true" />
+            <element signature="e#388972#388980#0" expanded="true" />
+            <element signature="e#389317#389325#0" expanded="true" />
+            <element signature="e#389662#389671#0" expanded="true" />
+            <element signature="e#390003#390013#0" expanded="true" />
+            <element signature="e#390345#390354#0" expanded="true" />
+            <element signature="e#390686#390696#0" expanded="true" />
+            <element signature="e#391028#391037#0" expanded="true" />
+            <element signature="e#391369#391376#0" expanded="true" />
+            <element signature="e#391716#391724#0" expanded="true" />
+            <element signature="e#392643#392651#0" expanded="true" />
+            <element signature="e#393058#393066#0" expanded="true" />
+            <element signature="e#393475#393482#0" expanded="true" />
+            <element signature="e#393895#393902#0" expanded="true" />
+            <element signature="e#394315#394323#0" expanded="true" />
+            <element signature="e#394745#394753#0" expanded="true" />
+            <element signature="e#395167#395175#0" expanded="true" />
+            <element signature="e#395589#395597#0" expanded="true" />
+            <element signature="e#396007#396014#0" expanded="true" />
+            <element signature="e#396422#396429#0" expanded="true" />
+            <element signature="e#396843#396851#0" expanded="true" />
+            <element signature="e#397303#397311#0" expanded="true" />
+            <element signature="e#397755#397763#0" expanded="true" />
+            <element signature="e#398201#398208#0" expanded="true" />
+            <element signature="e#398648#398655#0" expanded="true" />
+            <element signature="e#399099#399107#0" expanded="true" />
+            <element signature="e#399551#399559#0" expanded="true" />
+            <element signature="e#399997#400005#0" expanded="true" />
+            <element signature="e#400435#400443#0" expanded="true" />
+            <element signature="e#400867#400874#0" expanded="true" />
+            <element signature="e#401300#401307#0" expanded="true" />
+            <element signature="e#401737#401745#0" expanded="true" />
+            <element signature="e#402175#402183#0" expanded="true" />
+            <element signature="e#402621#402629#0" expanded="true" />
+            <element signature="e#403059#403067#0" expanded="true" />
+            <element signature="e#403491#403498#0" expanded="true" />
+            <element signature="e#403924#403931#0" expanded="true" />
+            <element signature="e#404361#404369#0" expanded="true" />
+            <element signature="e#404799#404807#0" expanded="true" />
+            <element signature="e#405247#405255#0" expanded="true" />
+            <element signature="e#405687#405695#0" expanded="true" />
+            <element signature="e#406121#406128#0" expanded="true" />
+            <element signature="e#406556#406563#0" expanded="true" />
+            <element signature="e#406995#407003#0" expanded="true" />
+            <element signature="e#407435#407443#0" expanded="true" />
+            <element signature="e#407883#407891#0" expanded="true" />
+            <element signature="e#408323#408331#0" expanded="true" />
+            <element signature="e#408757#408764#0" expanded="true" />
+            <element signature="e#409192#409199#0" expanded="true" />
+            <element signature="e#409631#409639#0" expanded="true" />
+            <element signature="e#410071#410079#0" expanded="true" />
+            <element signature="e#410528#410536#0" expanded="true" />
+            <element signature="e#410977#410985#0" expanded="true" />
+            <element signature="e#411420#411427#0" expanded="true" />
+            <element signature="e#411864#411871#0" expanded="true" />
+            <element signature="e#412312#412320#0" expanded="true" />
+            <element signature="e#412761#412769#0" expanded="true" />
+            <element signature="e#413218#413226#0" expanded="true" />
+            <element signature="e#413667#413675#0" expanded="true" />
+            <element signature="e#414110#414117#0" expanded="true" />
+            <element signature="e#414554#414561#0" expanded="true" />
+            <element signature="e#415002#415010#0" expanded="true" />
+            <element signature="e#415451#415459#0" expanded="true" />
+            <element signature="e#415908#415916#0" expanded="true" />
+            <element signature="e#416357#416365#0" expanded="true" />
+            <element signature="e#416800#416808#0" expanded="true" />
+            <element signature="e#417245#417252#0" expanded="true" />
+            <element signature="e#417693#417700#0" expanded="true" />
+            <element signature="e#418141#418149#0" expanded="true" />
+            <element signature="e#418596#418604#0" expanded="true" />
+            <element signature="e#419043#419051#0" expanded="true" />
+            <element signature="e#419484#419492#0" expanded="true" />
+            <element signature="e#419927#419934#0" expanded="true" />
+            <element signature="e#420373#420380#0" expanded="true" />
+            <element signature="e#420819#420827#0" expanded="true" />
+            <element signature="e#421267#421275#0" expanded="true" />
+            <element signature="e#421707#421715#0" expanded="true" />
+            <element signature="e#422141#422148#0" expanded="true" />
+            <element signature="e#422576#422583#0" expanded="true" />
+            <element signature="e#423015#423023#0" expanded="true" />
+            <element signature="e#423455#423463#0" expanded="true" />
+            <element signature="e#423902#423910#0" expanded="true" />
+            <element signature="e#424341#424349#0" expanded="true" />
+            <element signature="e#424774#424781#0" expanded="true" />
+            <element signature="e#425208#425215#0" expanded="true" />
+            <element signature="e#425646#425654#0" expanded="true" />
+            <element signature="e#426085#426093#0" expanded="true" />
+            <element signature="e#426524#426532#0" expanded="true" />
+            <element signature="e#426955#426963#0" expanded="true" />
+            <element signature="e#427380#427387#0" expanded="true" />
+            <element signature="e#427806#427813#0" expanded="true" />
+            <element signature="e#428236#428244#0" expanded="true" />
+            <element signature="e#428667#428675#0" expanded="true" />
+            <element signature="e#431123#431132#0" expanded="true" />
+            <element signature="e#431282#431291#0" expanded="true" />
+            <element signature="e#438429#438437#0" expanded="true" />
+            <element signature="e#440175#440181#0" expanded="true" />
+            <element signature="e#442049#442055#0" expanded="true" />
+            <element signature="e#442057#442063#0" expanded="true" />
+            <element signature="e#444067#444073#0" expanded="true" />
+            <element signature="e#444127#444133#0" expanded="true" />
+            <element signature="e#445991#445997#0" expanded="true" />
+            <element signature="e#446051#446057#0" expanded="true" />
+            <element signature="e#447921#447927#0" expanded="true" />
+            <element signature="e#447981#447987#0" expanded="true" />
+            <element signature="e#449845#449851#0" expanded="true" />
+            <element signature="e#449905#449911#0" expanded="true" />
+            <element signature="e#451752#451758#0" expanded="true" />
+            <element signature="e#451812#451818#0" expanded="true" />
+            <element signature="e#453642#453649#0" expanded="true" />
+            <element signature="e#453671#453678#0" expanded="true" />
+            <element signature="e#455187#455193#0" expanded="true" />
+            <element signature="e#455247#455253#0" expanded="true" />
+            <element signature="e#457105#457111#0" expanded="true" />
+            <element signature="e#457165#457171#0" expanded="true" />
+            <element signature="e#459047#459053#0" expanded="true" />
+            <element signature="e#459107#459113#0" expanded="true" />
+            <element signature="e#460994#461000#0" expanded="true" />
+            <element signature="e#461054#461060#0" expanded="true" />
+            <element signature="e#462957#462963#0" expanded="true" />
+            <element signature="e#463017#463023#0" expanded="true" />
+            <element signature="e#464902#464908#0" expanded="true" />
+            <element signature="e#464962#464968#0" expanded="true" />
+            <element signature="e#466836#466842#0" expanded="true" />
+            <element signature="e#466896#466902#0" expanded="true" />
+            <element signature="e#468771#468777#0" expanded="true" />
+            <element signature="e#468831#468837#0" expanded="true" />
+            <element signature="e#470722#470728#0" expanded="true" />
+            <element signature="e#470782#470788#0" expanded="true" />
+            <element signature="e#472655#472661#0" expanded="true" />
+            <element signature="e#472715#472721#0" expanded="true" />
+            <element signature="e#474574#474580#0" expanded="true" />
+            <element signature="e#474634#474640#0" expanded="true" />
+            <element signature="e#476496#476502#0" expanded="true" />
+            <element signature="e#476556#476562#0" expanded="true" />
+            <element signature="e#478381#478387#0" expanded="true" />
+            <element signature="e#478441#478447#0" expanded="true" />
+            <element signature="e#480265#480272#0" expanded="true" />
+            <element signature="e#480294#480301#0" expanded="true" />
+            <element signature="e#481831#481837#0" expanded="true" />
+            <element signature="e#481891#481897#0" expanded="true" />
+            <element signature="e#483777#483783#0" expanded="true" />
+            <element signature="e#483837#483843#0" expanded="true" />
+            <element signature="e#485734#485740#0" expanded="true" />
+            <element signature="e#485794#485800#0" expanded="true" />
+            <element signature="e#487675#487681#0" expanded="true" />
+            <element signature="e#487735#487741#0" expanded="true" />
+            <element signature="e#489616#489622#0" expanded="true" />
+            <element signature="e#489676#489682#0" expanded="true" />
+            <element signature="e#491554#491560#0" expanded="true" />
+            <element signature="e#491614#491620#0" expanded="true" />
+            <element signature="e#493449#493455#0" expanded="true" />
+            <element signature="e#493509#493515#0" expanded="true" />
+            <element signature="e#495345#495352#0" expanded="true" />
+            <element signature="e#495374#495381#0" expanded="true" />
+            <element signature="e#496921#496927#0" expanded="true" />
+            <element signature="e#496981#496987#0" expanded="true" />
+            <element signature="e#498868#498874#0" expanded="true" />
+            <element signature="e#498928#498934#0" expanded="true" />
+            <element signature="e#500831#500837#0" expanded="true" />
+            <element signature="e#500891#500897#0" expanded="true" />
+            <element signature="e#502776#502782#0" expanded="true" />
+            <element signature="e#502836#502842#0" expanded="true" />
+            <element signature="e#504707#504713#0" expanded="true" />
+            <element signature="e#504767#504773#0" expanded="true" />
+            <element signature="e#506643#506649#0" expanded="true" />
+            <element signature="e#506703#506709#0" expanded="true" />
+            <element signature="e#508535#508541#0" expanded="true" />
+            <element signature="e#508595#508601#0" expanded="true" />
+            <element signature="e#510431#510438#0" expanded="true" />
+            <element signature="e#510460#510467#0" expanded="true" />
+            <element signature="e#512007#512013#0" expanded="true" />
+            <element signature="e#512067#512073#0" expanded="true" />
+            <element signature="e#513954#513960#0" expanded="true" />
+            <element signature="e#514014#514020#0" expanded="true" />
+            <element signature="e#515920#515926#0" expanded="true" />
+            <element signature="e#515980#515986#0" expanded="true" />
+            <element signature="e#517867#517873#0" expanded="true" />
+            <element signature="e#517927#517933#0" expanded="true" />
+            <element signature="e#519801#519807#0" expanded="true" />
+            <element signature="e#519861#519867#0" expanded="true" />
+            <element signature="e#521735#521741#0" expanded="true" />
+            <element signature="e#521795#521801#0" expanded="true" />
+            <element signature="e#523629#523635#0" expanded="true" />
+            <element signature="e#523689#523695#0" expanded="true" />
+            <element signature="e#525527#525534#0" expanded="true" />
+            <element signature="e#525556#525563#0" expanded="true" />
+            <element signature="e#527103#527109#0" expanded="true" />
+            <element signature="e#527163#527169#0" expanded="true" />
+            <element signature="e#529050#529056#0" expanded="true" />
+            <element signature="e#529110#529116#0" expanded="true" />
+            <element signature="e#531013#531019#0" expanded="true" />
+            <element signature="e#531073#531079#0" expanded="true" />
+            <element signature="e#532958#532964#0" expanded="true" />
+            <element signature="e#533018#533024#0" expanded="true" />
+            <element signature="e#534889#534895#0" expanded="true" />
+            <element signature="e#534949#534955#0" expanded="true" />
+            <element signature="e#536823#536829#0" expanded="true" />
+            <element signature="e#536883#536889#0" expanded="true" />
+            <element signature="e#538721#538727#0" expanded="true" />
+            <element signature="e#538781#538787#0" expanded="true" />
+            <element signature="e#540623#540630#0" expanded="true" />
+            <element signature="e#540652#540659#0" expanded="true" />
+            <element signature="e#542199#542205#0" expanded="true" />
+            <element signature="e#542259#542265#0" expanded="true" />
+            <element signature="e#544146#544152#0" expanded="true" />
+            <element signature="e#544206#544212#0" expanded="true" />
+            <element signature="e#546109#546115#0" expanded="true" />
+            <element signature="e#546169#546175#0" expanded="true" />
+            <element signature="e#548054#548060#0" expanded="true" />
+            <element signature="e#548114#548120#0" expanded="true" />
+            <element signature="e#549985#549991#0" expanded="true" />
+            <element signature="e#550045#550051#0" expanded="true" />
+            <element signature="e#551919#551925#0" expanded="true" />
+            <element signature="e#551979#551985#0" expanded="true" />
+            <element signature="e#553817#553823#0" expanded="true" />
+            <element signature="e#553877#553883#0" expanded="true" />
+            <element signature="e#555719#555726#0" expanded="true" />
+            <element signature="e#555748#555755#0" expanded="true" />
+            <element signature="e#557283#557289#0" expanded="true" />
+            <element signature="e#557343#557349#0" expanded="true" />
+            <element signature="e#559181#559187#0" expanded="true" />
+            <element signature="e#559241#559247#0" expanded="true" />
+            <element signature="e#561083#561090#0" expanded="true" />
+            <element signature="e#561112#561119#0" expanded="true" />
+            <element signature="e#562659#562665#0" expanded="true" />
+            <element signature="e#562719#562725#0" expanded="true" />
+            <element signature="e#564606#564612#0" expanded="true" />
+            <element signature="e#564666#564672#0" expanded="true" />
+            <element signature="e#566569#566575#0" expanded="true" />
+            <element signature="e#566629#566635#0" expanded="true" />
+            <element signature="e#568514#568520#0" expanded="true" />
+            <element signature="e#568574#568580#0" expanded="true" />
+            <element signature="e#570445#570451#0" expanded="true" />
+            <element signature="e#570505#570511#0" expanded="true" />
+            <element signature="e#572379#572385#0" expanded="true" />
+            <element signature="e#572439#572445#0" expanded="true" />
+            <element signature="e#574277#574283#0" expanded="true" />
+            <element signature="e#574337#574343#0" expanded="true" />
+            <element signature="e#576179#576186#0" expanded="true" />
+            <element signature="e#576208#576215#0" expanded="true" />
+            <element signature="e#577755#577761#0" expanded="true" />
+            <element signature="e#577815#577821#0" expanded="true" />
+            <element signature="e#579702#579708#0" expanded="true" />
+            <element signature="e#579762#579768#0" expanded="true" />
+            <element signature="e#581665#581671#0" expanded="true" />
+            <element signature="e#581725#581731#0" expanded="true" />
+            <element signature="e#583610#583616#0" expanded="true" />
+            <element signature="e#583670#583676#0" expanded="true" />
+            <element signature="e#585541#585547#0" expanded="true" />
+            <element signature="e#585601#585607#0" expanded="true" />
+            <element signature="e#587472#587478#0" expanded="true" />
+            <element signature="e#587532#587538#0" expanded="true" />
+            <element signature="e#589406#589412#0" expanded="true" />
+            <element signature="e#589466#589472#0" expanded="true" />
+            <element signature="e#591304#591310#0" expanded="true" />
+            <element signature="e#591364#591370#0" expanded="true" />
+            <element signature="e#593206#593213#0" expanded="true" />
+            <element signature="e#593235#593242#0" expanded="true" />
+            <element signature="e#628855#628863#0" expanded="true" />
+            <element signature="e#629232#629241#0" expanded="true" />
+            <element signature="e#629602#629612#0" expanded="true" />
+            <element signature="e#629972#629980#0" expanded="true" />
+            <element signature="e#630711#630720#0" expanded="true" />
+            <element signature="e#631082#631092#0" expanded="true" />
+            <element signature="e#631452#631458#0" expanded="true" />
+            <element signature="e#631823#631830#0" expanded="true" />
+            <element signature="e#632563#632570#0" expanded="true" />
+            <element signature="e#632932#632940#0" expanded="true" />
+            <element signature="e#633299#633308#0" expanded="true" />
+            <element signature="e#633668#633676#0" expanded="true" />
+            <element signature="e#634038#634046#0" expanded="true" />
+            <element signature="e#634779#634789#0" expanded="true" />
+            <element signature="e#635150#635160#0" expanded="true" />
+            <element signature="e#635522#635528#0" expanded="true" />
+            <element signature="e#635889#635896#0" expanded="true" />
+            <element signature="e#649913#649921#0" expanded="true" />
+            <element signature="e#650402#650408#0" expanded="true" />
+            <element signature="e#650876#650883#0" expanded="true" />
+            <element signature="e#651363#651371#0" expanded="true" />
+            <element signature="e#651848#651856#0" expanded="true" />
+            <element signature="e#652349#652358#0" expanded="true" />
+            <element signature="e#652837#652847#0" expanded="true" />
+            <element signature="e#652849#652855#0" expanded="true" />
+            <element signature="e#653317#653326#0" expanded="true" />
+            <element signature="e#653805#653815#0" expanded="true" />
+            <element signature="e#654309#654318#0" expanded="true" />
+            <element signature="e#654804#654811#0" expanded="true" />
+            <element signature="e#655292#655300#0" expanded="true" />
+            <element signature="e#657139#657147#0" expanded="true" />
+            <element signature="e#657741#657747#0" expanded="true" />
+            <element signature="e#658323#658330#0" expanded="true" />
+            <element signature="e#658913#658921#0" expanded="true" />
+            <element signature="e#659500#659508#0" expanded="true" />
+            <element signature="e#660107#660116#0" expanded="true" />
+            <element signature="e#660694#660704#0" expanded="true" />
+            <element signature="e#661276#661285#0" expanded="true" />
+            <element signature="e#661873#661883#0" expanded="true" />
+            <element signature="e#662495#662504#0" expanded="true" />
+            <element signature="e#663100#663107#0" expanded="true" />
+            <element signature="e#663699#663707#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring/spring-context.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1869">
+          <caret line="89" column="55" selection-start-line="89" selection-start-column="55" selection-end-line="89" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/document/4.开发指南/合同状态与主题数据定时任务逻辑梳理.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring/spring-context-shiro-cas.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1092">
+          <caret line="52" column="43" selection-start-line="52" selection-start-column="43" selection-end-line="52" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/properties/app.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="37" selection-end-line="51" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring/spring-context-shiro.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="21" column="20" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/document/4.开发指南/数据归集注意事项.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="315">
+            <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/properties/jdbc.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="56" selection-start-line="7" selection-start-column="56" selection-end-line="7" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" column="70" lean-forward="true" selection-start-line="14" selection-start-column="70" selection-end-line="14" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>htly-all</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

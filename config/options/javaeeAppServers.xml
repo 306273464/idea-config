@@ -1,0 +1,37 @@
+<application>
+  <component name="AppserversManager">
+    <ServerDK NAME="Tomcat 7.0.67">
+      <option name="SOURCE_INTEGRATION_NAME" value="Tomcat Server" />
+      <DATA>
+        <option name="CATALINA_HOME" value="D:/work/apache-tomcat-7.0.67" />
+        <option name="CATALINA_BASE" value="" />
+      </DATA>
+    </ServerDK>
+    <LibraryTable>
+      <library name="Jetty 9.2.29.v20191105">
+        <CLASSES>
+          <root url="jar://D:/work/jetty-distribution-9.2.29.v20191105/lib/apache-jsp/org.mortbay.jasper.apache-jsp-8.0.33.jar!/" />
+          <root url="jar://D:/work/jetty-distribution-9.2.29.v20191105/lib/servlet-api-3.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+      <library name="Jetty 9.4.14.v20181114">
+        <CLASSES>
+          <root url="jar://D:/work/jetty-distribution-9.4.14.v20181114/lib/apache-jsp/org.mortbay.jasper.apache-jsp-8.5.33.1.jar!/" />
+          <root url="jar://D:/work/jetty-distribution-9.4.14.v20181114/lib/servlet-api-3.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+      <library name="Tomcat 7.0.67">
+        <CLASSES>
+          <root url="jar://D:/work/apache-tomcat-7.0.67/lib/jsp-api.jar!/" />
+          <root url="jar://D:/work/apache-tomcat-7.0.67/lib/servlet-api.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </LibraryTable>
+  </component>
+</application>

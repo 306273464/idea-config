@@ -1,0 +1,938 @@
+<project version="4">
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/udatech/common/model/EnterpriseReportApplyYwk.hbm.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1302">
+              <caret line="62" column="21" selection-start-line="62" selection-start-column="21" selection-end-line="62" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/document/2.数据库初始化脚本/All.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="18942">
+              <caret line="902" column="46" selection-start-line="902" selection-start-column="46" selection-end-line="902" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/document/3.数据库更新脚本/readme.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="63">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/document/3.数据库更新脚本/公信力业务库定制.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="441">
+              <caret line="21" column="27" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/wa/framework/utils/DataSourceUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/spring/spring-context.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="223">
+              <caret line="175" column="65" selection-start-line="175" selection-start-column="65" selection-end-line="175" selection-end-column="65" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/creditService-zwcx.iml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="329">
+              <caret line="99" column="36" selection-start-line="99" selection-start-column="36" selection-end-line="99" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="15" column="36" selection-end-line="210" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$MAVEN_REPOSITORY$/com/google/zxing/javase/3.3.0/javase-3.3.0.pom">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="10" column="68" selection-start-line="10" selection-start-column="68" selection-end-line="10" selection-end-column="68" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/wa/framework/multiDataSource/aop/DataSourceAsp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="35" column="13" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/wa/framework/multiDataSource/annotation/UseDataSource.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/udatech/gov/creditCheck/controller/CreditCheckController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-68">
+              <caret line="543" column="5" selection-start-line="543" selection-start-column="5" selection-end-line="543" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/18.0/guava-18.0-sources.jar!/com/google/common/base/Preconditions.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1722">
+              <caret line="96" column="19" selection-start-line="96" selection-start-column="19" selection-end-line="96" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/properties/jdbc.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="651">
+              <caret line="31" selection-start-line="31" selection-end-line="46" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/document/2.数据库初始化脚本/readme.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/TT.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/udatech/hall/creditReport/controller/HallReportController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="7959">
+              <caret line="435" selection-start-line="435" selection-end-line="435" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/udatech/hall/creditReport/service/impl/HallReportServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1491">
+              <caret line="90" selection-start-line="90" selection-end-line="90" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/udatech/hall/creditReport/dao/impl/HallReportDaoImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2562">
+              <caret line="143" column="75" selection-start-line="143" selection-start-column="75" selection-end-line="143" selection-end-column="75" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>QRTZ_TRIGGERS</find>
+      <find>QRTZ_</find>
+      <find>qrtz_simple_triggers</find>
+      <find>fe429596d305ce91835b19ce34cdbd1b</find>
+      <find>reset.password</find>
+      <find>admin</find>
+      <find>sys_user</find>
+      <find>xywj123!@#</find>
+      <find>admin1234</find>
+      <find>admin123!@#</find>
+      <find>重置</find>
+      <find>isFirstLogIn</find>
+      <find>ABbvYc3ESmv21DmLq0fh8ZlScnkhJY</find>
+      <find>1000000000</find>
+      <find>CreditRepairRuleDao</find>
+      <find>第一次</find>
+      <find>checkXfgz</find>
+      <find>SYS_USER</find>
+      <find>cU8YbOMz3icuDlJ+Uy9Nyw==</find>
+      <find>bw</find>
+      <find>defaultColumns</find>
+      <find>toReportList</find>
+      <find>createId</find>
+      <find>createUser</find>
+      <find>dbl_wjgxl_ywk</find>
+      <find>fa fa-file</find>
+      <find>guava</find>
+      <find>base</find>
+      <find>google</find>
+      <find>cxf</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/udatech/common/util/Coder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/udatech/common/util/DESCoder.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/udatech/common/constant/Constants.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/index.jsp" />
+        <option value="$PROJECT_DIR$/overlays/com.udatech.creditservice.creditservice-common-3.2.0/app/js/common/menu.js" />
+        <option value="$PROJECT_DIR$/src/main/java/com/udatech/dynamicDataSource/DynamicDataSource.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/udatech/dynamicDataSource/DynamicDataSourceGlobal.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/udatech/dynamicDataSource/DynamicDataSourceHolder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wa/framework/utils/DynamicDataSource2.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/properties/license.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wa/framework/utils/DynamicDataSource.java" />
+        <option value="$PROJECT_DIR$/document/3.数据库更新脚本/readme.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wa/framework/utils/DynamicDataSourceHolder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wa/framework/utils/UseDataSource.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wa/framework/multiDataSource/annotation/DSKey.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wa/framework/multiDataSource/annotation/UseDataSource.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wa/framework/multiDataSource/util/DataSourceSwitcher.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wa/framework/multiDataSource/util/CustomSpelParser.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wa/framework/multiDataSource/aop/DataSourceAsp.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/udatech/hall/creditRepair/dao/impl/HallCreditRepairDaoImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wa/framework/common/PropertyConfigurer.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/spring/spring-context.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wa/framework/utils/DataSourceUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/center/governmentArchives/governmentArchivesDetail.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/udatech/hall/creditRepair/service/impl/HallComplaintQueryServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/udatech/hall/creditRepair/service/impl/HallRepairServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/udatech/common/dataTrace/service/impl/DataTraceServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/app/js/center/governmentArchives/governmentArchivesDetail.js" />
+        <option value="$PROJECT_DIR$/src/main/webapp/app/js/common/dataTrace/dataTrace.js" />
+        <option value="$PROJECT_DIR$/src/main/resources/spring/spring-context-quartz-data-process.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/spring/spring-quartz-bus.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/spring/spring-quartz-data-process.xml" />
+        <option value="$PROJECT_DIR$/target/CreditService-all/WEB-INF/classes/spring/spring-quartz.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wa/framework/user/service/UserService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wa/framework/user/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/sys/user/user_list.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/app/js/sys/user/user_list.js" />
+        <option value="$PROJECT_DIR$/src/main/resources/properties/elastic.properties" />
+        <option value="$PROJECT_DIR$/src/main/resources/properties/jdbc.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/TT.java" />
+        <option value="$PROJECT_DIR$/document/2.数据库初始化脚本/All.sql" />
+        <option value="$PROJECT_DIR$/src/main/resources/properties/app.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wa/framework/common/controller/IndexController.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" x="-8" y="-8" width="1616" height="876" extendedState="6" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1" />
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="吴江-政务诚信-zwcx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CreditService-zwcx" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="吴江-政务诚信-zwcx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CreditService-zwcx" type="462c0819:PsiDirectoryNode" />
+              <item name="document" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="吴江-政务诚信-zwcx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CreditService-zwcx" type="462c0819:PsiDirectoryNode" />
+              <item name="document" type="462c0819:PsiDirectoryNode" />
+              <item name="2.数据库初始化脚本" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="吴江-政务诚信-zwcx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CreditService-zwcx" type="462c0819:PsiDirectoryNode" />
+              <item name="document" type="462c0819:PsiDirectoryNode" />
+              <item name="3.数据库更新脚本" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="吴江-政务诚信-zwcx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CreditService-zwcx" type="462c0819:PsiDirectoryNode" />
+              <item name="overlays" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="吴江-政务诚信-zwcx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CreditService-zwcx" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="吴江-政务诚信-zwcx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CreditService-zwcx" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="吴江-政务诚信-zwcx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CreditService-zwcx" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="吴江-政务诚信-zwcx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CreditService-zwcx" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="吴江-政务诚信-zwcx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CreditService-zwcx" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="udatech" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="吴江-政务诚信-zwcx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CreditService-zwcx" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="udatech" type="462c0819:PsiDirectoryNode" />
+              <item name="gov" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="吴江-政务诚信-zwcx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CreditService-zwcx" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="udatech" type="462c0819:PsiDirectoryNode" />
+              <item name="gov" type="462c0819:PsiDirectoryNode" />
+              <item name="creditCheck" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="吴江-政务诚信-zwcx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CreditService-zwcx" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="udatech" type="462c0819:PsiDirectoryNode" />
+              <item name="gov" type="462c0819:PsiDirectoryNode" />
+              <item name="creditCheck" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="吴江-政务诚信-zwcx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CreditService-zwcx" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="wa" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="吴江-政务诚信-zwcx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CreditService-zwcx" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="wa" type="462c0819:PsiDirectoryNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="吴江-政务诚信-zwcx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CreditService-zwcx" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="wa" type="462c0819:PsiDirectoryNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+              <item name="multiDataSource" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="吴江-政务诚信-zwcx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CreditService-zwcx" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="wa" type="462c0819:PsiDirectoryNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+              <item name="multiDataSource" type="462c0819:PsiDirectoryNode" />
+              <item name="annotation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="吴江-政务诚信-zwcx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CreditService-zwcx" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="wa" type="462c0819:PsiDirectoryNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+              <item name="multiDataSource" type="462c0819:PsiDirectoryNode" />
+              <item name="aop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="吴江-政务诚信-zwcx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CreditService-zwcx" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="吴江-政务诚信-zwcx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CreditService-zwcx" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="properties" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="吴江-政务诚信-zwcx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CreditService-zwcx" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="吴江-政务诚信-zwcx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CreditService-zwcx" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="吴江-政务诚信-zwcx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CreditService-zwcx" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="吴江-政务诚信-zwcx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CreditService-zwcx" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="吴江-政务诚信-zwcx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CreditService-zwcx" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="吴江-政务诚信-zwcx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CreditService-zwcx" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="sys" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="吴江-政务诚信-zwcx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CreditService-zwcx" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="sys" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="吴江-政务诚信-zwcx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CreditService-zwcx" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="吴江-政务诚信-zwcx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CreditService-zwcx" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="jsp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="吴江-政务诚信-zwcx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="吴江-政务诚信-zwcx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: com.google.guava:guava:18.0" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="吴江-政务诚信-zwcx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: com.google.guava:guava:18.0" type="70bed36:NamedLibraryElementNode" />
+              <item name="guava-18.0.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="吴江-政务诚信-zwcx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: com.google.guava:guava:18.0" type="70bed36:NamedLibraryElementNode" />
+              <item name="guava-18.0.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="吴江-政务诚信-zwcx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: com.google.guava:guava:18.0" type="70bed36:NamedLibraryElementNode" />
+              <item name="guava-18.0.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="google" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="吴江-政务诚信-zwcx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: com.google.guava:guava:18.0" type="70bed36:NamedLibraryElementNode" />
+              <item name="guava-18.0.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="google" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="吴江-政务诚信-zwcx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: com.google.guava:guava:18.0" type="70bed36:NamedLibraryElementNode" />
+              <item name="guava-18.0.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="google" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="142997000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29929352" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Internal Method Tracing" />
+      <window_info anchor="bottom" id="Build" />
+      <window_info anchor="bottom" id="Services" />
+      <window_info anchor="bottom" id="Endpoints" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info active="true" anchor="bottom" id="Find" order="1" visible="true" weight="0.3394737" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2762803" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49957156" weight="0.24528302" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Application Servers" order="7" weight="0.32884097" />
+      <window_info anchor="bottom" id="Spring" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50042844" side_tool="true" weight="0.39892185" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32884097" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="14" weight="0.4380054" />
+      <window_info anchor="right" id="Maven" weight="0.23635195" />
+      <window_info anchor="right" id="RestServices" />
+      <window_info anchor="right" id="Ant" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.23007712" />
+      <window_info anchor="right" id="Database" order="6" weight="0.32969153" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" weight="0.32969153" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$MAVEN_REPOSITORY$/com/wa/framework/waframework-base/3.1.0.6/waframework-base-3.1.0.6-sources.jar!/com/wa/framework/security/shiro/CustomCredentialsMatcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="33" column="57" selection-start-line="33" selection-start-column="57" selection-end-line="33" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring/spring-context-quartz-data-process.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/udatech/common/constant/Constants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5984">
+          <caret line="352" column="31" selection-start-line="352" selection-start-column="31" selection-end-line="352" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/udatech/common/dataTrace/service/impl/DataTraceServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="38" column="14" selection-start-line="38" selection-start-column="14" selection-end-line="38" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/overlays/com.udatech.creditservice.creditservice-blood-relation-3.2.0/WEB-INF/classes/com/wa/framework/elastic/ESUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="187" column="5" lean-forward="true" selection-start-line="187" selection-start-column="5" selection-end-line="187" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/udatech/center/creditRepair/service/impl/CreditRepairRuleDaoImpl.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/app/js/common/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="28" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/udatech/center/creditRepair/dao/impl/CreditRepairRuleDaoImpl.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/properties/app.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="354">
+          <caret line="58" column="57" selection-start-line="58" selection-start-column="57" selection-end-line="58" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/udatech/common/supervision/dao/impl/SupvSubjectDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/udatech/common/supervision/dao/impl/SupvCommonDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="35" column="28" selection-start-line="35" selection-start-column="28" selection-end-line="35" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/udatech/common/supervision/service/impl/SupvCommonServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="267" column="66" selection-start-line="267" selection-start-column="66" selection-end-line="267" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/udatech/common/resourceManageZwcx/controller/ZwcxThemeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="430">
+          <caret line="66" selection-start-line="66" selection-end-line="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/udatech/common/resourceManage/service/impl/CreditTemplateServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="48" column="13" selection-start-line="48" selection-start-column="13" selection-end-line="48" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/udatech/common/resourceManage/dao/impl/ThemeColumnDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/udatech/creditservice/creditservice-rewards-punishments/3.0.1/creditservice-rewards-punishments-3.0.1.war!/WEB-INF/classes/com/udatech/common/resourceManage/service/impl/ThemeColumnServiceImpl.class" />
+    <entry file="jar://$MAVEN_REPOSITORY$/com/udatech/creditservice/creditservice-rewards-punishments/3.0.1/creditservice-rewards-punishments-3.0.1.war!/WEB-INF/classes/com/udatech/common/resourceManage/service/impl/ThemeServiceImpl.class" />
+    <entry file="jar://$MAVEN_REPOSITORY$/com/udatech/creditservice/creditservice-rewards-punishments/3.0.1/creditservice-rewards-punishments-3.0.1.war!/WEB-INF/classes/com/udatech/common/resourceManage/controller/ThemeController.class" />
+    <entry file="jar://$MAVEN_REPOSITORY$/com/udatech/creditservice/creditservice-rewards-punishments/3.0.1/creditservice-rewards-punishments-3.0.1.war!/WEB-INF/classes/com/udatech/common/resourceManage/controller/ThemeColumnController.class" />
+    <entry file="jar://$MAVEN_REPOSITORY$/com/udatech/creditservice/creditservice-common/3.2.0/creditservice-common-3.2.0.jar!/com/udatech/common/resourceManage/service/impl/ThemeColumnServiceImpl.class" />
+    <entry file="jar://$MAVEN_REPOSITORY$/com/udatech/creditservice/creditservice-blood-relation/3.2.0/creditservice-blood-relation-3.2.0.war!/WEB-INF/classes/com/udatech/common/resourceManage/service/impl/ThemeColumnServiceImpl.class" />
+    <entry file="jar://$MAVEN_REPOSITORY$/com/udatech/creditservice/creditservice-rewards-punishments/3.0.1/creditservice-rewards-punishments-3.0.1.war!/WEB-INF/classes/com/udatech/common/resourceManage/service/impl/CreditTemplateServiceImpl.class" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/udatech/common/resourceManage/dao/impl/ThemeDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/udatech/common/supervision/dao/impl/SupvJGSXDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2890">
+          <caret line="184" selection-start-line="184" selection-end-line="184" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wa/framework/common/controller/IndexController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1360">
+          <caret line="122" column="26" selection-start-line="122" selection-start-column="26" selection-end-line="122" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/udatech/common/model/EnterpriseReportApply.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="32" column="30" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/udatech/common/model/EnterpriseReportApply.hbm.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3094">
+          <caret line="182" column="38" selection-start-line="182" selection-start-column="38" selection-end-line="182" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/com/udatech/creditservice/creditservice-common/3.2.0/creditservice-common-3.2.0.pom" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/udatech/common/model/EnterpriseRepair.hbm.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="32" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/udatech/common/model/EnterpriseRepair.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/udatech/common/model/EnterpriseReportApplyYwk.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="609">
+          <caret line="33" column="29" selection-start-line="33" selection-start-column="19" selection-end-line="33" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/udatech/common/model/EnterpriseReportApplyYwk.hbm.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1302">
+          <caret line="62" column="21" selection-start-line="62" selection-start-column="21" selection-end-line="62" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/document/2.数据库初始化脚本/All.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18942">
+          <caret line="902" column="46" selection-start-line="902" selection-start-column="46" selection-end-line="902" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/document/3.数据库更新脚本/readme.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/document/3.数据库更新脚本/公信力业务库定制.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="21" column="27" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wa/framework/utils/DataSourceUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/com/google/zxing/javase/3.3.0/javase-3.3.0.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="68" selection-start-line="10" selection-start-column="68" selection-end-line="10" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/18.0/guava-18.0-sources.jar!/com/google/common/base/Preconditions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1722">
+          <caret line="96" column="19" selection-start-line="96" selection-start-column="19" selection-end-line="96" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/properties/jdbc.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="651">
+          <caret line="31" selection-start-line="31" selection-end-line="46" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/document/2.数据库初始化脚本/readme.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/TT.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/udatech/hall/creditReport/controller/HallReportController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7959">
+          <caret line="435" selection-start-line="435" selection-end-line="435" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/udatech/hall/creditReport/service/impl/HallReportServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1491">
+          <caret line="90" selection-start-line="90" selection-end-line="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/udatech/hall/creditReport/dao/impl/HallReportDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2562">
+          <caret line="143" column="75" selection-start-line="143" selection-start-column="75" selection-end-line="143" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring/spring-context.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="175" column="65" selection-start-line="175" selection-start-column="65" selection-end-line="175" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/creditService-zwcx.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="99" column="36" selection-start-line="99" selection-start-column="36" selection-end-line="99" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="36" selection-end-line="210" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wa/framework/multiDataSource/aop/DataSourceAsp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="35" column="13" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wa/framework/multiDataSource/annotation/UseDataSource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/udatech/gov/creditCheck/controller/CreditCheckController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-68">
+          <caret line="543" column="5" selection-start-line="543" selection-start-column="5" selection-end-line="543" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,3 @@
+com.ccnode.codegenerator.MyBatisCodeHelperPro
+com.chrisrm.idea.MaterialThemeUI
+com.codota.csp.intellij

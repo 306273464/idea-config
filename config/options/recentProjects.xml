@@ -1,0 +1,619 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="D:/work/workspaces-gxl/wujiang/CreditService-XYCN-all">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1fzNwqIwi7jcHtn4TlobvgJ2P3X">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-193.5662.53" />
+              <option name="buildTimestamp" value="1576645744752" />
+              <frame x="-8" y="-8" width="1616" height="876" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1621570088599" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/svn-bak/tags/GXL/CreditService3.3.0/CreditService-root">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1tZB9MH8jcCYRKmlb9eLhvoY1cI">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-193.5662.53" />
+              <option name="buildTimestamp" value="1576645789175" />
+              <frame x="100" y="20" width="1400" height="820" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1622966580188" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/work/workspaces-gxl/trunk/LHJC/CreditService-LHJC-all">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1YNEStDZho7XQPd9OeAS73bLmCp">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-193.5662.53" />
+              <option name="buildTimestamp" value="1576645757340" />
+              <frame x="-8" y="-8" width="1616" height="876" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1623045444852" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/work/workspaces-gxl/trunk/MDJG/CreditService-MDJG-all">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1hgD35CPSI59nzP192a9ZYbtvBi">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-193.5662.53" />
+              <option name="buildTimestamp" value="1576645757340" />
+              <frame x="-8" y="-8" width="1616" height="876" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1623045880185" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/work/workspaces-gxl/trunk/HTLYGL/CreditService-HTLY-all">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1lMCbY6TVC3XkF9xX2dLbsWFXL9">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-193.5662.53" />
+              <option name="buildTimestamp" value="1576645757340" />
+              <frame x="-8" y="-8" width="1616" height="876" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1623050847219" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/work/workspaces-gxl/石家庄-桥西/qiaoxiqu_Wechat">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1u6mRLNj4DBFORT0ZUEuS4JrkhW">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-193.5662.53" />
+              <option name="buildTimestamp" value="1576645787207" />
+              <frame x="100" y="20" width="1400" height="820" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1623995869888" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/work/workspaces-gxl/trunk/SSO/cas-server-root">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1W8quulRa5CfExpXwDNoPiCnWK4">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-193.5662.53" />
+              <option name="buildTimestamp" value="1576645794656" />
+              <frame x="0" y="0" width="1600" height="860" extendedState="7" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1625134618857" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/work/workspaces-gxl/trunk/SSO/user-client-all">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1W8qx9lV7WdyBwU9mh18eZE84fE">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-193.5662.53" />
+              <option name="buildTimestamp" value="1576645755564" />
+              <frame x="-8" y="-8" width="1616" height="876" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1625462819421" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/svn-bak/tags/LHJC/CreditService-LHJC1.1.0/CreditService-LHJC">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1usw5vnyWw7lutp01MDIuJUfuxs">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-193.5662.53" />
+              <option name="buildTimestamp" value="1576645755564" />
+              <frame extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1625467425593" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/work/workspaces-gxl/trunk/SSO/user-client-root">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1W8qV9ZTcrJ5PmYwvbBgEQdO2X7">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-193.5662.53" />
+              <option name="buildTimestamp" value="1576645753248" />
+              <frame x="-8" y="-8" width="1616" height="876" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1625563648643" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/work/workspaces-gxl/trunk/ZWMH/zwmh-cms-all">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1W8YRfKFg4CViXYKFknCcIl9r84">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-193.5662.53" />
+              <option name="buildTimestamp" value="1576645782306" />
+              <frame x="-8" y="-8" width="1616" height="876" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1625734475123" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/work/workspaces-gxl/wujiang/app">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1fzBHXYzp95hMwQAqMkrGFUIIYL">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-193.5662.53" />
+              <option name="buildTimestamp" value="1576645744531" />
+              <frame x="-8" y="-8" width="1616" height="876" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1625824063923" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/work/workspaces-gxl/trunk/XYPJ/CreditService-XYPJ-root">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1jonK4zqNevJfQlGCEsGltsENEO">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-193.5662.53" />
+              <option name="buildTimestamp" value="1576645785139" />
+              <frame x="100" y="20" width="1400" height="820" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1625900505429" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/work/workspaces-gxl/trunk/XYPJ/CreditService-XYPJ-all">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1lVCFF0tbPgz3MNpxjtajoyBsxN">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-193.5662.53" />
+              <option name="buildTimestamp" value="1576645785139" />
+              <frame x="100" y="20" width="1400" height="820" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1625909591569" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/work/workspaces-gxl/trunk/HTLYGL/CreditService-HTLY-root">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1l56vB2qhD8LI1l1yJEdkJcJQy3">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-193.5662.53" />
+              <option name="buildTimestamp" value="1576645798617" />
+              <frame x="100" y="20" width="1400" height="820" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1626086534942" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/work/workspaces-gxl/wujiang/cms">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1j5amaLJ1zFJ2RwGHWzrP1D67fr">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-193.5662.53" />
+              <option name="buildTimestamp" value="1576645798617" />
+              <frame x="-8" y="-8" width="1616" height="876" extendedState="7" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1626086539247" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/work/workspaces-gxl/trunk/XYJ/CreditService-XYJ-root">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1W96CyTN103LROsd8qoefMamvdG">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-193.5662.53" />
+              <option name="buildTimestamp" value="1576645790893" />
+              <frame x="-8" y="-8" width="1616" height="876" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1626252381436" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/work/SpringCloudStudy/RuoYi-Vue">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1rPpsihSiU7ZnI4vw77dJoUpvFP">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-193.5662.53" />
+              <option name="buildTimestamp" value="1576645790893" />
+              <frame x="100" y="20" width="1400" height="820" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1626252381436" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/work/SpringCloudStudy/RuoYi-Cloud">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1rQYIWyNAEBiKvhHIM0C2NJypAD">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-193.5662.53" />
+              <option name="buildTimestamp" value="1576645795727" />
+              <frame x="100" y="20" width="1400" height="820" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1626431315969" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/work/workspaces-gxl/suzhou/sz3qi/kettle">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1dLYASbs5Muc4M8YuibQJtwuUiU">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-193.5662.53" />
+              <option name="buildTimestamp" value="1576645796881" />
+              <frame x="-8" y="-8" width="1616" height="876" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1626685834093" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/work/workspaces-gxl/trunk/CreditService_jms">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1YNntD8PKkgTYAdHQ1gRciorSyg">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-193.5662.53" />
+              <option name="buildTimestamp" value="1576645756297" />
+              <frame x="-8" y="-8" width="1600" height="860" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1626949154293" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/work/workspaces-gxl/trunk/XYMH/cms-red-root">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1f4w2W92skB7MaGwPJtIRchkTkC">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-193.5662.53" />
+              <option name="buildTimestamp" value="1576645756297" />
+              <frame x="-8" y="-8" width="1616" height="876" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1626949157061" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/work/workspaces-gxl/trunk/MDJG/CreditService-MDJG-root">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1W969sKS7Gvkg83TGRtHH15Akc1">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-193.5662.53" />
+              <option name="buildTimestamp" value="1576645756297" />
+              <frame x="-8" y="-8" width="1616" height="876" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1626949157960" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/work/workspaces-gxl/trunk/XYCN/CreditService-XYCN-root">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1jXqSOidmRO5GnaItnJVGnnRkgc">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-193.5662.53" />
+              <option name="buildTimestamp" value="1576645746639" />
+              <frame x="100" y="20" width="1400" height="820" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1627031264718" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/work/workspaces-gxl/石家庄/二期/CreditService-LHJC-all">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1vhFjDMHTlvU1EUFsATXKFwEjRt">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-193.5662.53" />
+              <option name="buildTimestamp" value="1576645746639" />
+              <frame x="-8" y="-8" width="1616" height="876" extendedState="7" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1627035597009" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/work/workspaces-gxl/石家庄/二期/CreditService-all">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1tZS3FqREL1vSxmF5sbRt5DHYEv">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-193.5662.53" />
+              <option name="buildTimestamp" value="1576645763126" />
+              <frame x="52" y="52" width="1314" height="574" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1627285202953" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/work/workspaces-gxl/trunk/CreditService-all">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1W93kVszdk33k4uHhVTJtPlBeG3">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-193.5662.53" />
+              <option name="buildTimestamp" value="1576645763126" />
+              <frame x="100" y="20" width="1400" height="820" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1627293848443" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/work/workspaces-gxl/石家庄-桥西/cms-new">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1vsTiuVpwyvR8ZU0s2DMxAYH8Rr">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-193.5662.53" />
+              <option name="buildTimestamp" value="1576645741411" />
+              <frame x="-8" y="-8" width="1616" height="876" extendedState="7" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1627365561131" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/work/workspaces-gxl/石家庄-桥西/cms">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1u6mSgHtTV9ohGxNmNGrTXxK0Ga">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-193.5662.53" />
+              <option name="buildTimestamp" value="1576645741411" />
+              <frame x="100" y="20" width="1400" height="820" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1627364588065" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/work/workspaces-gxl/trunk/XYMH/cms-blue-root">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1f4LbiiY34rmMUcpb9T1eyzDmuo">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-193.5662.53" />
+              <option name="buildTimestamp" value="1576645797797" />
+              <frame x="-8" y="-8" width="1616" height="876" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1627437380579" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/work/workspaces-gxl/石家庄/二期/cms">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1tyo2wuUpEFlWJjwXVKLs6tgJ3y">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-193.5662.53" />
+              <option name="buildTimestamp" value="1576645797797" />
+              <frame x="0" y="0" width="1600" height="860" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1627442126066" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/svn-bak/tags/GXL/CreditService3.4.1/CreditService-root">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1dCSPitv3VRRmaptnUCdGp4mFBc">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-193.5662.53" />
+              <option name="buildTimestamp" value="1576645797797" />
+              <frame x="-8" y="-8" width="1616" height="876" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1627449443442" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/work/workspaces-gxl/宜春/cms">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1vvlPiVgLbwZnVFVcLpbdyYt4es">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-193.5662.53" />
+              <option name="buildTimestamp" value="1576645797797" />
+              <frame x="100" y="20" width="1400" height="820" extendedState="7" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1627466592347" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/work/workspaces-gxl/trunk/ZWMH/zwmh-cms-root">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1W8cSp2VqxYLwkJrKMmt41XHHur">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-193.5662.53" />
+              <option name="buildTimestamp" value="1576645797772" />
+              <frame x="100" y="20" width="1400" height="820" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1627521900668" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/work/workspaces-gxl/waframework/waframework-root">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1cl1KPiyl9arPqJYEOe0QpLju7P">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-193.5662.53" />
+              <option name="buildTimestamp" value="1576645770403" />
+              <frame x="-8" y="-8" width="1616" height="876" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1627541680043" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/work/workspaces-gxl/trunk/CreditService-root">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1W95myusXFCfkKuhbmAAiP1fIov">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-193.5662.53" />
+              <option name="buildTimestamp" value="1576645770403" />
+              <frame x="100" y="20" width="1400" height="820" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1627552986498" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/work/workspaces-gxl/suzhou/sz3qi/cms">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1gJNHINTtlLTkyvOGzsELnFEMoN">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-193.5662.53" />
+              <option name="buildTimestamp" value="1576645789387" />
+              <frame x="-8" y="-8" width="1616" height="876" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1627635407249" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/work/workspaces-gxl/trunk/cms框架">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1w1P85khiZc4IVYze3RqQLor2CR">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-193.5662.53" />
+              <option name="buildTimestamp" value="1576645789387" />
+              <frame x="100" y="20" width="1400" height="820" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1627639314342" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/work/workspaces-gxl/waframework/waFramework-web">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1vwBuEe4S7psQJ2PRhFrrURouND">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-193.5662.53" />
+              <option name="buildTimestamp" value="1576645789387" />
+              <frame x="100" y="20" width="1400" height="820" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1627639317845" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/work/workspaces-gxl/中电联/CreditService">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1rhF7sE927f5aq7Wp6Tb6TrJHGW">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-193.5662.53" />
+              <option name="buildTimestamp" value="1576645761942" />
+              <frame x="100" y="20" width="1400" height="820" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1629712953287" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/work/workspaces-gxl/trunk/XYCN/CreditService-XYCN-all">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1jXqmnyuylab3tgRuVA7XIFBQvq">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-193.5662.53" />
+              <option name="buildTimestamp" value="1576645775411" />
+              <frame x="0" y="0" width="340" height="39" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1629861812009" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/work/workspaces-gxl/trunk/XYJ/CreditService-XYJ-all">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1Xk1XxJFiEzggTtHRNq7cGT1KYP">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-193.5662.53" />
+              <option name="buildTimestamp" value="1576645775411" />
+              <frame x="-8" y="-8" width="1616" height="876" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1629861812009" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/work/workspaces-gxl/trunk/LHJC/CreditService-LHJC-root">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1W95qfcXOnPFSkyBAgtVpgeysna">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-193.5662.53" />
+              <option name="buildTimestamp" value="1576645745669" />
+              <frame x="0" y="0" width="1600" height="860" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1629869437671" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/work/workspaces-gxl/suzhou/sz3qi/CreditService-all">
+          <value>
+            <RecentProjectMetaInfo opened="true" projectWorkspaceId="1Ye6X9BbijdUPHcozPsQawNX3Vb">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-193.5662.53" />
+              <option name="buildTimestamp" value="1576645745669" />
+              <frame x="-8" y="-8" width="1616" height="876" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1629871009362" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="groups">
+      <list>
+        <ProjectGroup>
+          <option name="name" value="产品-all" />
+          <option name="projectPaths" value="D:/work/workspaces-gxl/trunk/XYJ/CreditService-XYJ-all;D:/work/workspaces-gxl/trunk/XYCN/CreditService-XYCN-all;D:/work/workspaces-gxl/trunk/CreditService-all;D:/work/workspaces-gxl/trunk/XYPJ/CreditService-XYPJ-all;D:/work/workspaces-gxl/trunk/ZWMH/zwmh-cms-all;D:/work/workspaces-gxl/trunk/SSO/user-client-all;D:/work/workspaces-gxl/trunk/HTLYGL/CreditService-HTLY-all;D:/work/workspaces-gxl/trunk/MDJG/CreditService-MDJG-all;D:/work/workspaces-gxl/trunk/LHJC/CreditService-LHJC-all;D:/work/workspaces-gxl/trunk/XYPJ/CreditService-XYPJ-all;D:/work/workspaces-gxl/trunk/XYPJ/CreditService-XYPJ-all;D:/work/workspaces-gxl/trunk/XYPJ/CreditService-XYPJ-all;D:/work/workspaces-gxl/trunk/LHJC/CreditService-LHJC-all;D:/work/workspaces-gxl/trunk/LHJC/CreditService-LHJC-all;D:/work/workspaces-gxl/trunk/LHJC/CreditService-LHJC-all;D:/work/workspaces-gxl/trunk/HTLYGL/CreditService-HTLY-all;D:/work/workspaces-gxl/trunk/HTLYGL/CreditService-HTLY-all;D:/work/workspaces-gxl/trunk/HTLYGL/CreditService-HTLY-all;D:/work/workspaces-gxl/trunk/XYCN/CreditService-XYCN-all;D:/work/workspaces-gxl/trunk/XYCN/CreditService-XYCN-all;D:/work/workspaces-gxl/trunk/XYCN/CreditService-XYCN-all;D:/work/workspaces-gxl/trunk/XYJ/CreditService-XYJ-all;D:/work/workspaces-gxl/trunk/XYJ/CreditService-XYJ-all;D:/work/workspaces-gxl/trunk/XYJ/CreditService-XYJ-all;D:/work/workspaces-gxl/trunk/XYJ/CreditService-XYJ-all;D:/work/workspaces-gxl/trunk/XYJ/CreditService-XYJ-all;D:/work/workspaces-gxl/trunk/MDJG/CreditService-MDJG-all;D:/work/workspaces-gxl/trunk/MDJG/CreditService-MDJG-all;D:/work/workspaces-gxl/trunk/MDJG/CreditService-MDJG-all;D:/work/workspaces-gxl/trunk/MDJG/CreditService-MDJG-all;D:/work/workspaces-gxl/trunk/MDJG/CreditService-MDJG-all;D:/work/workspaces-gxl/trunk/SSO/cas-server-all;D:/work/workspaces-gxl/trunk/SSO/cas-server-all;D:/work/workspaces-gxl/trunk/SSO/cas-server-all;D:/work/workspaces-gxl/trunk/SSO/cas-server-all;D:/work/workspaces-gxl/trunk/SSO/cas-server-all;D:/work/workspaces-gxl/trunk/SSO/cas-server-all" />
+        </ProjectGroup>
+        <ProjectGroup>
+          <option name="name" value="产品-root" />
+          <option name="projectPaths" value="D:/work/workspaces-gxl/trunk/LHJC/CreditService-LHJC-root;D:/work/workspaces-gxl/trunk/CreditService-root;D:/work/workspaces-gxl/waframework/waframework-root;D:/work/workspaces-gxl/trunk/ZWMH/zwmh-cms-root;D:/work/workspaces-gxl/trunk/XYMH/cms-blue-root;D:/work/workspaces-gxl/trunk/XYCN/CreditService-XYCN-root;D:/work/workspaces-gxl/trunk/MDJG/CreditService-MDJG-root;D:/work/workspaces-gxl/trunk/XYMH/cms-red-root;D:/work/workspaces-gxl/trunk/CreditService_jms;D:/work/workspaces-gxl/trunk/XYJ/CreditService-XYJ-root;D:/work/workspaces-gxl/trunk/HTLYGL/CreditService-HTLY-root;D:/work/workspaces-gxl/trunk/XYPJ/CreditService-XYPJ-root;D:/work/workspaces-gxl/trunk/SSO/user-client-root;D:/work/workspaces-gxl/trunk/SSO/cas-server-root;D:/work/workspaces-gxl/trunk/Kettle;D:/work/workspaces-gxl/trunk/CreditService_jms;D:/work/workspaces-gxl/trunk/XYPJ/CreditService-XYPJ-root;D:/work/workspaces-gxl/trunk/XYPJ/CreditService-XYPJ-root;D:/work/workspaces-gxl/trunk/XYJ/CreditService-XYJ-root;D:/work/workspaces-gxl/trunk/XYJ/CreditService-XYJ-root;D:/work/workspaces-gxl/trunk/HTLYGL/CreditService-HTLY-root;D:/work/workspaces-gxl/trunk/HTLYGL/CreditService-HTLY-root;D:/work/workspaces-gxl/trunk/MDJG/CreditService-MDJG-root;D:/work/workspaces-gxl/trunk/MDJG/CreditService-MDJG-root;D:/work/workspaces-gxl/trunk/XYMH/cms-red-root;D:/work/workspaces-gxl/trunk/XYMH/cms-red-root;D:/work/workspaces-gxl/trunk/CreditService-root;D:/work/workspaces-gxl/trunk/CreditService-root;D:/work/workspaces-gxl/trunk/ZWMH/zwmh-cms-root;D:/work/workspaces-gxl/trunk/ZWMH/zwmh-cms-root;D:/work/workspaces-gxl/trunk/SSO/cas-server-root;D:/work/workspaces-gxl/trunk/SSO/cas-server-root;D:/work/workspaces-gxl/trunk/SSO/user-client-root;D:/work/workspaces-gxl/trunk/SSO/user-client-root;D:/work/workspaces-gxl/trunk/Kettle;D:/work/workspaces-gxl/trunk/Kettle;D:/work/workspaces-gxl/trunk/XYMH/cms-blue-root;D:/work/workspaces-gxl/trunk/XYMH/cms-blue-root;D:/work/workspaces-gxl/trunk/XYMH/cms-blue-root;D:/work/workspaces-gxl/trunk/XYMH/cms-blue-root" />
+        </ProjectGroup>
+        <ProjectGroup>
+          <option name="name" value="产品-分支" />
+          <option name="projectPaths" value="F:/svn-bak/tags/XYJ-APP/xyj-app-1.0.0/xyj-app-root;F:/svn-bak/tags/XYPJ/CreditService-XYPJ-1.0.1/CreditService-XYPJ-root;F:/svn-bak/tags/XYPJ/CreditService-XYPJ-1.0.1/CreditService-XYPJ-root;F:/svn-bak/tags/XYPJ/CreditService-XYPJ-1.0.1/CreditService-XYPJ-root;F:/svn-bak/tags/XYCN/CreditService-XYCN-1.0.0/CreditService-XYCN-root;F:/svn-bak/tags/XYCN/CreditService-XYCN-1.0.0/CreditService-XYCN-root;F:/svn-bak/tags/XYCN/CreditService-XYCN-1.0.0/CreditService-XYCN-root;F:/svn-bak/tags/GXL/CreditService3.1.1/Kettle;F:/svn-bak/tags/GXL/CreditService3.1.1/Kettle;F:/svn-bak/tags/GXL/CreditService3.1.1/Kettle;F:/svn-bak/tags/XYCN/CreditService-XYCN-1.0.0/CreditService-XYCN-all;F:/svn-bak/tags/XYCN/CreditService-XYCN-1.0.0/CreditService-XYCN-all;F:/svn-bak/tags/XYCN/CreditService-XYCN-1.0.0/CreditService-XYCN-all;F:/svn-bak/tags/GXL/CreditService4.0.0/CreditService-root;F:/svn-bak/tags/GXL/CreditService4.0.0/CreditService-root;F:/svn-bak/tags/GXL/CreditService4.0.0/CreditService-root;F:/svn-bak/tags/GXL/CreditService4.0.0/CreditService-root;F:/svn-bak/tags/GXL/CreditService4.0.0/CreditService-root;F:/svn-bak/tags/XYJ-APP/xyj-app-1.0.0/xyj-app-root;F:/svn-bak/tags/XYJ-APP/xyj-app-1.0.0/xyj-app-root;F:/svn-bak/tags/XYJ-APP/xyj-app-1.0.0/xyj-app-root;F:/svn-bak/tags/XYJ-APP/xyj-app-1.0.0/xyj-app-root;F:/svn-bak/tags/XYJ/CreditService-XYJ-1.1.0/CreditService-XYJ-root;F:/svn-bak/tags/XYJ/CreditService-XYJ-1.1.0/CreditService-XYJ-root;F:/svn-bak/tags/XYJ/CreditService-XYJ-1.1.0/CreditService-XYJ-root;F:/svn-bak/tags/XYJ/CreditService-XYJ-1.1.0/CreditService-XYJ-root;F:/svn-bak/tags/XYJ/CreditService-XYJ-1.1.0/CreditService-XYJ-root;F:/svn-bak/tags/XYPJ/CreditService-XYPJ-1.2.1/CreditService-XYPJ-all;F:/svn-bak/tags/XYPJ/CreditService-XYPJ-1.2.1/CreditService-XYPJ-all;F:/svn-bak/tags/XYPJ/CreditService-XYPJ-1.2.1/CreditService-XYPJ-all;F:/svn-bak/tags/XYPJ/CreditService-XYPJ-1.2.1/CreditService-XYPJ-all;F:/svn-bak/tags/XYPJ/CreditService-XYPJ-1.2.1/CreditService-XYPJ-all;F:/svn-bak/tags/ZWMH/zwmh-cms-1.1.0/zwmh-cms-root;F:/svn-bak/tags/ZWMH/zwmh-cms-1.1.0/zwmh-cms-root;F:/svn-bak/tags/ZWMH/zwmh-cms-1.1.0/zwmh-cms-root;F:/svn-bak/tags/ZWMH/zwmh-cms-1.1.0/zwmh-cms-root;F:/svn-bak/tags/ZWMH/zwmh-cms-1.1.0/zwmh-cms-root;F:/svn-bak/tags/XYPJ/CreditService-XYPJ-1.2.1/CreditService-XYPJ-root;F:/svn-bak/tags/XYPJ/CreditService-XYPJ-1.2.1/CreditService-XYPJ-root;F:/svn-bak/tags/XYPJ/CreditService-XYPJ-1.2.1/CreditService-XYPJ-root;F:/svn-bak/tags/XYPJ/CreditService-XYPJ-1.2.1/CreditService-XYPJ-root;F:/svn-bak/tags/XYPJ/CreditService-XYPJ-1.2.1/CreditService-XYPJ-root;F:/svn-bak/tags/GXL/CreditService4.1.0/CreditService-root;F:/svn-bak/tags/GXL/CreditService4.1.0/CreditService-root;F:/svn-bak/tags/GXL/CreditService4.1.0/CreditService-root;F:/svn-bak/tags/GXL/CreditService4.1.0/CreditService-root;F:/svn-bak/tags/GXL/CreditService4.1.0/CreditService-root;F:/svn-bak/tags/LHJC/CreditService-LHJC1.1.0/CreditService-LHJC;F:/svn-bak/tags/LHJC/CreditService-LHJC1.1.0/CreditService-LHJC;F:/svn-bak/tags/LHJC/CreditService-LHJC1.1.0/CreditService-LHJC;F:/svn-bak/tags/LHJC/CreditService-LHJC1.1.0/CreditService-LHJC;F:/svn-bak/tags/LHJC/CreditService-LHJC1.1.0/CreditService-LHJC;F:/svn-bak/tags/LHJC/CreditService-LHJC1.1.0/CreditService-LHJC;F:/svn-bak/tags/GXL/CreditService3.3.0/CreditService-root;F:/svn-bak/tags/GXL/CreditService3.3.0/CreditService-root;F:/svn-bak/tags/GXL/CreditService3.3.0/CreditService-root;F:/svn-bak/tags/GXL/CreditService3.3.0/CreditService-root;F:/svn-bak/tags/GXL/CreditService3.3.0/CreditService-root;F:/svn-bak/tags/GXL/CreditService3.3.0/CreditService-root;F:/svn-bak/tags/GXL/CreditService3.3.0/CreditService-root" />
+        </ProjectGroup>
+        <ProjectGroup>
+          <option name="name" value="石家庄-桥西" />
+          <option name="projectPaths" value="D:/work/workspaces-gxl/石家庄-桥西/cms;D:/work/workspaces-gxl/石家庄-桥西/creditService-xyj;D:/work/workspaces-gxl/石家庄-桥西/creditService-xyj-app;D:/work/workspaces-gxl/石家庄-桥西/creditService-xyj;D:/work/workspaces-gxl/石家庄-桥西/creditService-xyj;D:/work/workspaces-gxl/石家庄-桥西/creditService-xyj;D:/work/workspaces-gxl/石家庄-桥西/creditService-xyj-app;D:/work/workspaces-gxl/石家庄-桥西/creditService-xyj-app;D:/work/workspaces-gxl/石家庄-桥西/creditService-xyj-app;D:/work/workspaces-gxl/石家庄-桥西/cms;D:/work/workspaces-gxl/石家庄-桥西/cms;D:/work/workspaces-gxl/石家庄-桥西/cms;D:/work/workspaces-gxl/石家庄-桥西/cms;D:/work/workspaces-gxl/石家庄-桥西/qiaoxiqu_Wechat;D:/work/workspaces-gxl/石家庄-桥西/qiaoxiqu_Wechat;D:/work/workspaces-gxl/石家庄-桥西/qiaoxiqu_Wechat;D:/work/workspaces-gxl/石家庄-桥西/qiaoxiqu_Wechat;D:/work/workspaces-gxl/石家庄-桥西/qiaoxiqu_Wechat;D:/work/workspaces-gxl/石家庄-桥西/qiaoxiqu_Wechat;D:/work/workspaces-gxl/石家庄-桥西/qiaoxiqu_Wechat" />
+        </ProjectGroup>
+        <ProjectGroup>
+          <option name="name" value="吴江" />
+          <option name="projectPaths" value="D:/work/workspaces-gxl/wujiang/app;D:/work/workspaces-gxl/wujiang/app;D:/work/workspaces-gxl/wujiang/app;D:/work/workspaces-gxl/wujiang/app;D:/work/workspaces-gxl/wujiang/app;D:/work/workspaces-gxl/wujiang/CreditService-all;D:/work/workspaces-gxl/wujiang/CreditService-all;D:/work/workspaces-gxl/wujiang/CreditService-all;D:/work/workspaces-gxl/wujiang/CreditService-all;D:/work/workspaces-gxl/wujiang/CreditService-all;D:/work/workspaces-gxl/wujiang/CreditService-XYPJ-new;D:/work/workspaces-gxl/wujiang/CreditService-XYPJ-new;D:/work/workspaces-gxl/wujiang/CreditService-XYPJ-new;D:/work/workspaces-gxl/wujiang/CreditService-XYPJ-new;D:/work/workspaces-gxl/wujiang/CreditService-XYPJ-new;D:/work/workspaces-gxl/wujiang/cms;D:/work/workspaces-gxl/wujiang/cms;D:/work/workspaces-gxl/wujiang/cms;D:/work/workspaces-gxl/wujiang/cms;D:/work/workspaces-gxl/wujiang/cms;D:/work/workspaces-gxl/wujiang/cms;D:/work/workspaces-gxl/wujiang/CreditService-XYCN-all;D:/work/workspaces-gxl/wujiang/CreditService-XYCN-all;D:/work/workspaces-gxl/wujiang/CreditService-XYCN-all;D:/work/workspaces-gxl/wujiang/CreditService-XYCN-all;D:/work/workspaces-gxl/wujiang/CreditService-XYCN-all;D:/work/workspaces-gxl/wujiang/CreditService-XYCN-all;D:/work/workspaces-gxl/wujiang/CreditService-XYCN-all" />
+        </ProjectGroup>
+        <ProjectGroup>
+          <option name="expanded" value="true" />
+          <option name="name" value="石家庄二期" />
+          <option name="projectPaths" value="D:/work/workspaces-gxl/石家庄/二期/cms;D:/work/workspaces-gxl/石家庄/二期/CreditService-all;D:/work/workspaces-gxl/石家庄/二期/CreditService-all;D:/work/workspaces-gxl/石家庄/二期/CreditService-all;D:/work/workspaces-gxl/石家庄/二期/CreditService-all;D:/work/workspaces-gxl/石家庄/二期/CreditService-all;D:/work/workspaces-gxl/石家庄/二期/CreditService-all;D:/work/workspaces-gxl/石家庄/二期/cms;D:/work/workspaces-gxl/石家庄/二期/cms;D:/work/workspaces-gxl/石家庄/二期/cms;D:/work/workspaces-gxl/石家庄/二期/cms;D:/work/workspaces-gxl/石家庄/二期/cms" />
+        </ProjectGroup>
+        <ProjectGroup>
+          <option name="expanded" value="true" />
+          <option name="name" value="市信用" />
+          <option name="projectPaths" value="D:/work/workspaces-gxl/suzhou/sz3qi/CreditService-all;D:/work/workspaces-gxl/suzhou/sz3qi/cms;D:/work/workspaces-gxl/suzhou/sz3qi/kettle;D:/work/workspaces-gxl/suzhou/sz3qi/CreditService-all;D:/work/workspaces-gxl/suzhou/sz3qi/CreditService-all;D:/work/workspaces-gxl/suzhou/sz3qi/CreditService-all;D:/work/workspaces-gxl/suzhou/sz3qi/CreditService-all;D:/work/workspaces-gxl/suzhou/sz3qi/CreditService-all;D:/work/workspaces-gxl/suzhou/sz3qi/CreditService-all;D:/work/workspaces-gxl/suzhou/sz3qi/kettle;D:/work/workspaces-gxl/suzhou/sz3qi/kettle;D:/work/workspaces-gxl/suzhou/sz3qi/kettle;D:/work/workspaces-gxl/suzhou/sz3qi/kettle;D:/work/workspaces-gxl/suzhou/sz3qi/kettle;D:/work/workspaces-gxl/suzhou/sz3qi/kettle;D:/work/workspaces-gxl/suzhou/sz3qi/cms;D:/work/workspaces-gxl/suzhou/sz3qi/cms;D:/work/workspaces-gxl/suzhou/sz3qi/cms;D:/work/workspaces-gxl/suzhou/sz3qi/cms;D:/work/workspaces-gxl/suzhou/sz3qi/cms;D:/work/workspaces-gxl/suzhou/sz3qi/cms" />
+        </ProjectGroup>
+      </list>
+    </option>
+    <option name="lastProjectLocation" value="D:/work/workspaces-gxl/trunk" />
+    <option name="recentPaths">
+      <list>
+        <option value="D:/work/workspaces-gxl/suzhou/sz3qi/CreditService-all" />
+        <option value="D:/work/workspaces-gxl/trunk/LHJC/CreditService-LHJC-root" />
+        <option value="D:/work/workspaces-gxl/trunk/XYJ/CreditService-XYJ-all" />
+        <option value="D:/work/workspaces-gxl/trunk/XYCN/CreditService-XYCN-all" />
+        <option value="D:/work/workspaces-gxl/中电联/CreditService" />
+        <option value="D:/work/workspaces-gxl/waframework/waFramework-web" />
+        <option value="D:/work/workspaces-gxl/trunk/cms框架" />
+        <option value="D:/work/workspaces-gxl/suzhou/sz3qi/cms" />
+        <option value="D:/work/workspaces-gxl/trunk/CreditService-root" />
+        <option value="D:/work/workspaces-gxl/waframework/waframework-root" />
+        <option value="D:/work/workspaces-gxl/trunk/ZWMH/zwmh-cms-root" />
+        <option value="D:/work/workspaces-gxl/宜春/cms" />
+        <option value="F:/svn-bak/tags/GXL/CreditService3.4.1/CreditService-root" />
+        <option value="D:/work/workspaces-gxl/石家庄/二期/cms" />
+        <option value="D:/work/workspaces-gxl/trunk/XYMH/cms-blue-root" />
+        <option value="D:/work/workspaces-gxl/石家庄-桥西/cms" />
+        <option value="D:/work/workspaces-gxl/石家庄-桥西/cms-new" />
+        <option value="D:/work/workspaces-gxl/trunk/CreditService-all" />
+        <option value="D:/work/workspaces-gxl/石家庄/二期/CreditService-all" />
+        <option value="D:/work/workspaces-gxl/石家庄/二期/CreditService-LHJC-all" />
+        <option value="D:/work/workspaces-gxl/trunk/XYCN/CreditService-XYCN-root" />
+        <option value="D:/work/workspaces-gxl/trunk/MDJG/CreditService-MDJG-root" />
+        <option value="D:/work/workspaces-gxl/trunk/XYMH/cms-red-root" />
+        <option value="D:/work/workspaces-gxl/trunk/CreditService_jms" />
+        <option value="D:/work/workspaces-gxl/suzhou/sz3qi/kettle" />
+        <option value="D:/work/SpringCloudStudy/RuoYi-Cloud" />
+        <option value="D:/work/SpringCloudStudy/RuoYi-Vue" />
+        <option value="D:/work/workspaces-gxl/trunk/XYJ/CreditService-XYJ-root" />
+        <option value="D:/work/workspaces-gxl/wujiang/cms" />
+        <option value="D:/work/workspaces-gxl/trunk/HTLYGL/CreditService-HTLY-root" />
+        <option value="D:/work/workspaces-gxl/trunk/XYPJ/CreditService-XYPJ-all" />
+        <option value="D:/work/workspaces-gxl/trunk/XYPJ/CreditService-XYPJ-root" />
+        <option value="D:/work/workspaces-gxl/wujiang/app" />
+        <option value="D:/work/workspaces-gxl/trunk/ZWMH/zwmh-cms-all" />
+        <option value="D:/work/workspaces-gxl/trunk/SSO/user-client-root" />
+        <option value="F:/svn-bak/tags/LHJC/CreditService-LHJC1.1.0/CreditService-LHJC" />
+        <option value="D:/work/workspaces-gxl/trunk/SSO/user-client-all" />
+        <option value="D:/work/workspaces-gxl/trunk/SSO/cas-server-root" />
+        <option value="D:/work/workspaces-gxl/石家庄-桥西/qiaoxiqu_Wechat" />
+        <option value="D:/work/workspaces-gxl/trunk/HTLYGL/CreditService-HTLY-all" />
+        <option value="D:/work/workspaces-gxl/trunk/MDJG/CreditService-MDJG-all" />
+        <option value="D:/work/workspaces-gxl/trunk/LHJC/CreditService-LHJC-all" />
+        <option value="F:/svn-bak/tags/GXL/CreditService3.3.0/CreditService-root" />
+        <option value="D:/work/workspaces-gxl/wujiang/CreditService-XYCN-all" />
+      </list>
+    </option>
+  </component>
+</application>

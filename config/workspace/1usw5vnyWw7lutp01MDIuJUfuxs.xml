@@ -1,0 +1,874 @@
+<project version="4">
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/udatech/lhjc/subjectManagement/controller/MenosController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1302">
+              <caret line="100" column="67" selection-start-line="100" selection-start-column="67" selection-end-line="100" selection-end-column="67" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/udatech/common/controller/SuperController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1092">
+              <caret line="66" column="7" selection-start-line="66" selection-start-column="7" selection-end-line="66" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/app/js/lhjc/subjectManagement/menos/menos.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1386">
+              <caret line="66" column="53" selection-start-line="66" selection-start-column="41" selection-end-line="66" selection-end-column="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/udatech/common/service/impl/CreditCommonServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3675">
+              <caret line="225" column="40" selection-start-line="225" selection-start-column="40" selection-end-line="225" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/udatech/common/dao/impl/CreditCommonDaoImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="945">
+              <caret line="58" column="72" selection-start-line="58" selection-start-column="72" selection-end-line="58" selection-end-column="72" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/udatech/lhjc/subjectManagement/service/impl/MenosServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="567">
+              <caret line="51" column="33" selection-start-line="51" selection-start-column="33" selection-end-line="51" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/udatech/lhjc/subjectManagement/dao/impl/MenosDaoImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="314">
+              <caret line="89" column="56" selection-start-line="89" selection-start-column="56" selection-end-line="89" selection-end-column="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/udatech/lhjc/appletView/service/impl/MatterConfigServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/udatech/lhjc/appletView/dao/impl/AppletConfigDaoImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/udatech/lhjc/appletView/controller/AppletConfigController.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/lhjc/appletView/message/applet_supervision_list.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/lhjc/appletView/message/applet_supervision_detail.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/lhjc/appletView/message/applet_message_detail.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/app/js/lhjc/appletView/message/applet_message_detail.js" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/6ed3c8b8-cf16-49bd-becd-aaec7aa9e24f/console.sql" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/lhjc/subjectManagement/lawAndRegulation/law_and_regulation_list.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/udatech/lhjc/appletView/dao/AppletMessageDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/udatech/lhjc/appletView/service/AppletMessageService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/udatech/lhjc/appletView/service/impl/AppletMessageServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/udatech/lhjc/appletView/dao/impl/AppletMessageDaoImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/lhjc/appletView/supervision/applet_supervision_list.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/app/js/lhjc/objectManagement/pushLog/push_log_detail.js" />
+        <option value="$PROJECT_DIR$/src/main/webapp/app/js/lhjc/objectManagement/pushLog/push_log_list.js" />
+        <option value="$PROJECT_DIR$/src/main/java/com/udatech/lhjc/objectManagement/service/BlackTaskService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/udatech/lhjc/objectManagement/dao/BlackTaskDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/udatech/lhjc/objectManagement/controller/ImportantTaskController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/udatech/lhjc/objectManagement/service/ImportantTaskService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/udatech/lhjc/objectManagement/dao/ImportantTaskDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/udatech/lhjc/objectManagement/controller/RedTaskController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/udatech/lhjc/objectManagement/service/RedTaskService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/udatech/lhjc/objectManagement/dao/RedTaskDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/udatech/lhjc/objectManagement/dao/impl/RedTaskDaoImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/udatech/lhjc/objectManagement/dao/impl/ImportantDaoImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/udatech/lhjc/objectManagement/dao/impl/BlackTaskDaoImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/udatech/lhjc/appletView/controller/AppletMessageController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wa/framework/common/controller/IndexController.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/app/js/lhjc/appletView/appletSearch/applet_search_list.js" />
+        <option value="$PROJECT_DIR$/src/main/webapp/app/js/lhjc/objectManagement/blackTask/black_task_list.js" />
+        <option value="$PROJECT_DIR$/src/main/webapp/app/js/lhjc/objectManagement/redTask/red_task_list.js" />
+        <option value="$PROJECT_DIR$/src/main/webapp/app/js/lhjc/subjectManagement/lawAndRegulation/law_and_regulation_list.js" />
+        <option value="$PROJECT_DIR$/src/main/webapp/app/js/lhjc/appletView/supervision/applet_supervision_list.js" />
+        <option value="$PROJECT_DIR$/src/main/java/com/udatech/lhjc/objectManagement/service/impl/ImportantTaskServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/udatech/lhjc/objectManagement/service/impl/RedTaskServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wa/framework/quartz/service/LhjcMdAutoSendService.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/lhjc/appletView/message/applet_message_list.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/udatech/lhjc/subjectManagement/controller/MattersListController.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/app/js/lhjc/appletView/message/applet_message_list.js" />
+        <option value="$PROJECT_DIR$/src/main/webapp/app/js/lhjc/subjectManagement/mattersList/mattersList.js" />
+        <option value="$PROJECT_DIR$/src/main/java/com/udatech/lhjc/subjectManagement/dao/impl/MattersListDaoImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/app/js/lhjc/subjectManagement/mattersList/mattersList_detail.js" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/lhjc/subjectManagement/mattersList/mattersList_detail.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/app/js/lhjc/objectManagement/importantList/important_task_list.js" />
+        <option value="$PROJECT_DIR$/src/main/java/com/udatech/lhjc/objectManagement/controller/BlackTaskController.java" />
+        <option value="$PROJECT_DIR$/document/3.数据库更新脚本/v1.1.0/v1.1.0.sql" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/index.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/app/js/common/menu.js" />
+        <option value="$PROJECT_DIR$/src/main/java/com/udatech/lhjc/objectManagement/service/impl/BlackTaskServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/udatech/lhjc/subjectManagement/service/impl/LhjcSupervisionServiceImpl.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="creditService-lhjc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CreditService-LHJC" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="creditService-lhjc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CreditService-LHJC" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="creditService-lhjc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CreditService-LHJC" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="creditService-lhjc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CreditService-LHJC" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="creditService-lhjc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CreditService-LHJC" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="creditService-lhjc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CreditService-LHJC" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="udatech" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="creditService-lhjc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CreditService-LHJC" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="udatech" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="creditService-lhjc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CreditService-LHJC" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="udatech" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="creditService-lhjc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CreditService-LHJC" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="udatech" type="462c0819:PsiDirectoryNode" />
+              <item name="lhjc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="creditService-lhjc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CreditService-LHJC" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="udatech" type="462c0819:PsiDirectoryNode" />
+              <item name="lhjc" type="462c0819:PsiDirectoryNode" />
+              <item name="subjectManagement" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="creditService-lhjc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CreditService-LHJC" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="udatech" type="462c0819:PsiDirectoryNode" />
+              <item name="lhjc" type="462c0819:PsiDirectoryNode" />
+              <item name="subjectManagement" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="creditService-lhjc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CreditService-LHJC" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="udatech" type="462c0819:PsiDirectoryNode" />
+              <item name="lhjc" type="462c0819:PsiDirectoryNode" />
+              <item name="subjectManagement" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="creditService-lhjc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CreditService-LHJC" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="udatech" type="462c0819:PsiDirectoryNode" />
+              <item name="lhjc" type="462c0819:PsiDirectoryNode" />
+              <item name="subjectManagement" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="creditService-lhjc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CreditService-LHJC" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="udatech" type="462c0819:PsiDirectoryNode" />
+              <item name="lhjc" type="462c0819:PsiDirectoryNode" />
+              <item name="subjectManagement" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="creditService-lhjc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CreditService-LHJC" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="udatech" type="462c0819:PsiDirectoryNode" />
+              <item name="lhjc" type="462c0819:PsiDirectoryNode" />
+              <item name="subjectManagement" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="creditService-lhjc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CreditService-LHJC" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="creditService-lhjc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CreditService-LHJC" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="creditService-lhjc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CreditService-LHJC" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="creditService-lhjc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CreditService-LHJC" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="lhjc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="creditService-lhjc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CreditService-LHJC" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="lhjc" type="462c0819:PsiDirectoryNode" />
+              <item name="subjectManagement" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="creditService-lhjc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CreditService-LHJC" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="lhjc" type="462c0819:PsiDirectoryNode" />
+              <item name="subjectManagement" type="462c0819:PsiDirectoryNode" />
+              <item name="menos" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="595426000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Persistence" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24855492" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Image Layers" order="4" />
+      <window_info id="Web" order="5" side_tool="true" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Designer" order="7" />
+      <window_info anchor="bottom" id="Internal Method Tracing" />
+      <window_info anchor="bottom" id="Services" />
+      <window_info anchor="bottom" id="Build" visible="true" weight="0.32894737" />
+      <window_info anchor="bottom" id="Endpoints" />
+      <window_info anchor="bottom" id="Database Console" order="0" weight="0.32972974" />
+      <window_info anchor="bottom" id="CheckStyle" order="1" weight="0.32972974" />
+      <window_info anchor="bottom" id="Message" order="2" />
+      <window_info anchor="bottom" id="Find" order="3" weight="0.32837838" />
+      <window_info anchor="bottom" id="Run" order="4" weight="0.5081081" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="7" sideWeight="0.8614786" weight="0.025675675" />
+      <window_info anchor="bottom" id="TODO" order="8" sideWeight="0.49530515" weight="0.010810811" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.1385214" side_tool="true" weight="0.22972973" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.113513514" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" sideWeight="0.86903137" weight="0.021621622" />
+      <window_info anchor="bottom" id="Spring" order="13" />
+      <window_info anchor="bottom" id="Terminal" order="14" weight="0.32972974" />
+      <window_info anchor="bottom" id="Application Servers" order="15" weight="0.32972974" />
+      <window_info anchor="bottom" id="Database Changes" order="16" />
+      <window_info active="true" anchor="right" id="Maven" visible="true" weight="0.32947975" />
+      <window_info anchor="right" id="Ant" />
+      <window_info anchor="right" id="RestServices" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" show_stripe_button="false" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" weight="0.0" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="right" id="Mongo Explorer" order="6" show_stripe_button="false" />
+      <window_info anchor="right" id="Bean Validation" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Maven Projects" internal_type="SLIDING" order="8" type="SLIDING" weight="0.32969153" />
+      <window_info anchor="right" id="Module Dependencies" order="9" weight="0.32969153" />
+      <window_info anchor="right" id="Capture Analysis" order="10" />
+      <window_info anchor="right" id="Theme Preview" order="11" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21979435" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Image Layers" order="4" />
+      <window_info id="Web" order="5" side_tool="true" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Designer" order="7" />
+      <window_info anchor="bottom" id="Database Console" order="0" weight="0.32972974" />
+      <window_info anchor="bottom" id="CheckStyle" order="1" weight="0.32972974" />
+      <window_info anchor="bottom" id="Message" order="2" />
+      <window_info anchor="bottom" id="Find" order="3" weight="0.32837838" />
+      <window_info anchor="bottom" id="Run" order="4" weight="0.5081081" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="7" sideWeight="0.8614786" weight="0.043243244" />
+      <window_info anchor="bottom" id="TODO" order="8" sideWeight="0.49530515" weight="0.010810811" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.1385214" side_tool="true" weight="0.22972973" />
+      <window_info anchor="bottom" id="Messages" order="10" visible="true" weight="0.113513514" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" sideWeight="0.86903137" weight="0.021621622" />
+      <window_info anchor="bottom" id="Spring" order="13" />
+      <window_info anchor="bottom" id="Terminal" order="14" weight="0.32972974" />
+      <window_info anchor="bottom" id="Application Servers" order="15" weight="0.32972974" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" show_stripe_button="false" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" visible="true" weight="0.0" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="right" id="Mongo Explorer" order="6" show_stripe_button="false" />
+      <window_info anchor="right" id="Bean Validation" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Maven Projects" internal_type="SLIDING" order="8" type="SLIDING" weight="0.32969153" />
+      <window_info anchor="right" id="Module Dependencies" order="9" weight="0.32969153" />
+      <window_info anchor="right" id="Capture Analysis" order="10" />
+      <window_info anchor="right" id="Theme Preview" order="11" />
+    </layout-to-restore>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/udatech/lhjc/objectManagement/dao/BlackTaskDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="26" column="16" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/udatech/lhjc/objectManagement/controller/RedTaskController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="54" column="13" selection-start-line="54" selection-start-column="13" selection-end-line="54" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/udatech/lhjc/objectManagement/service/RedTaskService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/udatech/lhjc/objectManagement/service/impl/RedTaskServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="38" column="3" selection-start-line="38" selection-start-column="3" selection-end-line="38" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/udatech/lhjc/objectManagement/dao/RedTaskDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/lhjc/objectManagement/redTask/red_task_list.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/udatech/lhjc/objectManagement/service/ImportantTaskService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/lhjc/objectManagement/importantList/important_task_list.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/udatech/lhjc/objectManagement/controller/PushLogController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5700">
+          <caret line="280" column="56" selection-start-line="280" selection-start-column="56" selection-end-line="280" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/udatech/lhjc/subjectManagement/controller/MattersListController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5225">
+          <caret line="244" column="37" selection-start-line="244" selection-start-column="37" selection-end-line="244" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/udatech/lhjc/appletView/dao/AppletConfigDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/udatech/lhjc/appletView/service/AppletConfigService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/udatech/lhjc/appletView/service/impl/AppletConfigServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="38" column="67" selection-start-line="38" selection-start-column="50" selection-end-line="38" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/udatech/lhjc/appletView/controller/AppletMessageController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="56" column="69" selection-start-line="56" selection-start-column="69" selection-end-line="56" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/udatech/lhjc/appletView/service/AppletMessageService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/udatech/lhjc/appletView/service/impl/AppletMessageServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="32" column="40" selection-start-line="32" selection-start-column="40" selection-end-line="32" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/udatech/lhjc/appletView/dao/AppletMessageDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/udatech/lhjc/appletView/dao/impl/AppletMessageDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="24" column="32" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/udatech/lhjc/appletView/dao/impl/AppletConfigDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="800">
+          <caret line="41" column="46" selection-start-line="41" selection-start-column="46" selection-end-line="41" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wa/framework/common/controller/IndexController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3425">
+          <caret line="173" selection-start-line="173" selection-end-line="173" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wa/framework/common/service/impl/CommonServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="47" column="13" selection-start-line="47" selection-start-column="13" selection-end-line="47" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wa/framework/quartz/dao/LhjcMdAutoSendDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/creditService-lhjc.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-800">
+          <caret line="31" column="14" selection-start-line="31" selection-start-column="14" selection-end-line="31" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/properties/license.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="14" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/properties/jdbc.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/properties/app.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/udatech/lhjc/appletView/controller/AppletConfigController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="84" column="59" lean-forward="true" selection-start-line="84" selection-start-column="59" selection-end-line="84" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://table:/ad483758/6ed3c8b8-cf16-49bd-becd-aaec7aa9e24f/LHJC_YWK.LHJC_JCCS" />
+    <entry file="file://$PROJECT_DIR$/document/3.数据库更新脚本/v1.1.0/v1.1.0.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/app/js/common/menu.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1054">
+          <caret line="62" column="46" selection-start-line="62" selection-start-column="46" selection-end-line="62" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1853">
+          <caret line="109" column="60" selection-start-line="109" selection-start-column="60" selection-end-line="109" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wa/framework/quartz/service/LhjcMdAutoSendService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3315">
+          <caret line="221" selection-start-line="221" selection-end-line="221" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/app/js/lhjc/subjectManagement/mattersList/mattersList_detail.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/app/js/lhjc/subjectManagement/menos/menos_detail.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1224">
+          <caret line="72" column="15" selection-start-line="72" selection-start-column="15" selection-end-line="72" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/udatech/lhjc/subjectManagement/service/MenosService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/udatech/lhjc/subjectManagement/service/impl/LhjcSupervisionServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10336">
+          <caret line="649" column="37" selection-start-line="649" selection-start-column="37" selection-end-line="649" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/udatech/lhjc/objectManagement/controller/BlackTaskController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="62" column="32" selection-start-line="62" selection-start-column="13" selection-end-line="62" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/udatech/lhjc/objectManagement/service/PushLogService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="64" column="33" selection-start-line="64" selection-start-column="33" selection-end-line="64" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/udatech/lhjc/objectManagement/service/impl/PushLogServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2040">
+          <caret line="163" column="37" selection-start-line="163" selection-start-column="37" selection-end-line="163" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wa/framework/quartz/service/LhjcDsjMdAutoJoinService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wa/framework/quartz/service/LhjcMdAutoJoinService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="799">
+          <caret line="69" column="43" selection-start-line="69" selection-start-column="42" selection-end-line="69" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/udatech/lhjc/objectManagement/service/impl/BlackTaskServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4539">
+          <caret line="307" column="47" selection-start-line="307" selection-start-column="40" selection-end-line="307" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/udatech/lhjc/subjectManagement/service/impl/MattersListServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="30" column="15" selection-start-line="30" selection-start-column="15" selection-end-line="30" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/udatech/lhjc/subjectManagement/service/impl/PowerListServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="40" column="13" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/udatech/lhjc/subjectManagement/controller/MenosController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1302">
+          <caret line="100" column="67" selection-start-line="100" selection-start-column="67" selection-end-line="100" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/udatech/common/controller/SuperController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1092">
+          <caret line="66" column="7" selection-start-line="66" selection-start-column="7" selection-end-line="66" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/app/js/lhjc/subjectManagement/menos/menos.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1386">
+          <caret line="66" column="53" selection-start-line="66" selection-start-column="41" selection-end-line="66" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/udatech/common/service/impl/CreditCommonServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3675">
+          <caret line="225" column="40" selection-start-line="225" selection-start-column="40" selection-end-line="225" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/udatech/common/dao/impl/CreditCommonDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="945">
+          <caret line="58" column="72" selection-start-line="58" selection-start-column="72" selection-end-line="58" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/udatech/lhjc/subjectManagement/service/impl/MenosServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="51" column="33" selection-start-line="51" selection-start-column="33" selection-end-line="51" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/udatech/lhjc/subjectManagement/dao/impl/MenosDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="89" column="56" selection-start-line="89" selection-start-column="56" selection-end-line="89" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>creditService-lhjc:war exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring (creditService-lhjc)|Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>creditService-lhjc</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: org.apache.cxf:cxf-rt-ws-policy:2.7.14</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

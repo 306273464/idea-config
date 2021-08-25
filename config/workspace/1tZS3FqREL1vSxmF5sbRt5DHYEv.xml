@@ -1,0 +1,698 @@
+<project version="4">
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/document/3.数据库更新脚本/数据量计算-存储过程修改20210606.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="91" column="36" selection-start-line="91" selection-start-column="36" selection-end-line="91" selection-end-column="36" />
+              <folding>
+                <element signature="e#5732#5740#0" expanded="true" />
+                <element signature="e#6069#6078#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/document/石家庄二期版本升级脚本/20210616数据上报存错过程修改-重复量不含已删的.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="142" column="53" selection-start-line="142" selection-start-column="53" selection-end-line="142" selection-end-column="53" />
+              <folding>
+                <element signature="e#13099#13107#0" expanded="true" />
+                <element signature="e#13499#13508#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/wa/framework/common/controller/IndexController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="460">
+              <caret line="125" selection-start-line="125" selection-end-line="125" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/wa/framework/security/shiro/ShiroCasRealm.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="896">
+              <caret line="71" column="38" selection-start-line="71" selection-start-column="26" selection-end-line="71" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/overlays/com.udatech.creditservice.creditservice-common-4.2.0/WEB-INF/classes/com/wa/framework/security/shiro/CustomCredentialsMatcher.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="317">
+              <caret line="38" column="39" selection-start-line="38" selection-start-column="34" selection-end-line="38" selection-end-column="43" />
+              <folding>
+                <element signature="e#0#1755#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://F:/maven.m2/repository/com/wa/framework/waFramework-core/1.3.0.2/waFramework-core-1.3.0.2-sources.jar!/com/wa/framework/util/SecurityUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="244">
+              <caret line="40" selection-start-line="40" selection-end-line="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/FOO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="10" column="107" lean-forward="true" selection-start-line="10" selection-start-column="107" selection-end-line="10" selection-end-column="107" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://F:/maven.m2/repository/com/wa/framework/waFramework-core/1.3.0.2/waFramework-core-1.3.0.2-sources.jar!/com/wa/framework/util/CodeUtils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://F:/maven.m2/repository/org/apache/shiro/shiro-core/1.7.0/shiro-core-1.7.0-sources.jar!/org/apache/shiro/authc/UsernamePasswordToken.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="109" column="11" selection-start-line="109" selection-start-column="11" selection-end-line="109" selection-end-column="11" />
+              <folding>
+                <element signature="e#5015#5016#0" expanded="true" />
+                <element signature="e#5108#5109#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://F:/maven.m2/repository/com/udatech/creditservice/creditservice-common/4.2.0/creditservice-common-4.2.0-sources.jar!/com/wa/framework/common/service/impl/CommonServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="672">
+              <caret line="65" column="20" selection-start-line="65" selection-start-column="20" selection-end-line="65" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://F:/maven.m2/repository/com/udatech/creditservice/creditservice-common/4.2.0/creditservice-common-4.2.0-sources.jar!/com/wa/framework/security/shiro/ShiroCasRealm.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="525">
+              <caret line="53" selection-start-line="53" selection-end-line="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://F:/maven.m2/repository/com/udatech/creditservice/creditservice-common/4.2.0/creditservice-common-4.2.0-sources.jar!/com/wa/framework/common/service/BsMountService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://F:/maven.m2/repository/com/udatech/creditservice/creditservice-common/4.2.0/creditservice-common-4.2.0-sources.jar!/com/wa/framework/common/service/impl/BsMountServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="231">
+              <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://F:/maven.m2/repository/com/wa/framework/waFramework-core/1.3.0.2/waFramework-core-1.3.0.2-sources.jar!/com/wa/framework/util/ObjectUtils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1533">
+              <caret line="84" column="26" selection-start-line="84" selection-start-column="26" selection-end-line="84" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://F:/maven.m2/repository/com/udatech/creditservice/creditservice-common/4.2.0/creditservice-common-4.2.0-sources.jar!/com/udatech/common/constant/Constants.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5964">
+              <caret line="284" column="28" selection-start-line="284" selection-start-column="28" selection-end-line="284" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://F:/maven.m2/repository/com/wa/framework/waFramework-core/1.3.0.2/waFramework-core-1.3.0.2-sources.jar!/com/wa/framework/dao/BaseDaoSupport.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="13146">
+              <caret line="670" column="49" selection-start-line="670" selection-start-column="40" selection-end-line="670" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/udatech/common/statisAnalyze/controller/DataSizeController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2373">
+              <caret line="149" column="44" selection-start-line="149" selection-start-column="44" selection-end-line="149" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/udatech/common/statisAnalyze/service/impl/DataSizeServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1323">
+              <caret line="84" column="48" selection-start-line="84" selection-start-column="48" selection-end-line="84" selection-end-column="48" />
+              <folding>
+                <element signature="e#2573#2574#0" expanded="true" />
+                <element signature="e#2651#2652#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/udatech/common/statisAnalyze/dao/impl/DataSizeDaoImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="7623">
+              <caret line="381" selection-start-line="381" selection-end-line="381" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/udatech/common/statisAnalyze/vo/StatisticsCriteria.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>sbsjl</find>
+      <find>sbwgl</find>
+      <find>red</find>
+      <find>center/doRepairRepeal.action</find>
+      <find>repairId</find>
+      <find>修复内容：</find>
+      <find>xfnrXx</find>
+      <find>repair_handle_detail.doRepairHandle()</find>
+      <find>doRepairRepeal</find>
+      <find>category</find>
+      <find>getRepairHandleInfo</find>
+      <find>ROOT_4</find>
+      <find>nrtable</find>
+      <find>修复内容</find>
+      <find>修复</find>
+      <find>公式中</find>
+      <find>/delete</find>
+      <find>删除</find>
+      <find>chgErrorDataStatus</find>
+      <find>getDuplicateValue</find>
+      <find>schemaName</find>
+      <find>exportData2</find>
+      <find>status</find>
+      <find>showDetail</find>
+      <find>queryTableDetails</find>
+      <find>showSchemaDetail</find>
+      <find>jdk</find>
+      <find>sbyws</find>
+      <find>getReportLogDataCount</find>
+      <find>editErrorData</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>&lt;!--</replace>
+      <replace>--&gt;</replace>
+      <replace>0</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/resources/properties/license.properties" />
+        <option value="$PROJECT_DIR$/src/main/resources/spring/spring-context-shiro.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/spring/spring-context-shiro-cas.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/gov/dataReport/gov_task_list.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/udatech/common/taskManage/dao/CollectionTaskDao.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/app/js/gov/dataReport/gov_task_list.js" />
+        <option value="$PROJECT_DIR$/src/main/java/com/udatech/center/creditRepair/service/impl/RepairHandleServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/app/js/center/repairHandle/repair_handle_list.js" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wa/framework/quartz/dao/GetDuplicateValueDao.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/app/js/gov/dataReport/gov_task_his_list.js" />
+        <option value="$PROJECT_DIR$/src/main/webapp/app/js/gov/dataReport/gov_task_his_more.js" />
+        <option value="$PROJECT_DIR$/src/main/webapp/app/js/center/taskManage/center_task_his_list.js" />
+        <option value="$PROJECT_DIR$/src/main/java/com/udatech/gov/dataAnalysis/dao/impl/DataAnalysisDaoImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/app/js/gov/dataAnalysis/data_analysis.js" />
+        <option value="$PROJECT_DIR$/src/main/java/com/udatech/common/statisAnalyze/controller/DataSizeController.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/app/js/center/statisAnalyze/data_size.js" />
+        <option value="$PROJECT_DIR$/src/main/java/com/udatech/common/dataReport/dao/impl/DataReportDaoImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/properties/app.properties" />
+        <option value="$PROJECT_DIR$/document/3.数据库更新脚本/数据量计算-存储过程修改20210606.sql" />
+        <option value="$PROJECT_DIR$/document/石家庄二期版本升级脚本/20210616数据上报存错过程修改-重复量不含已删的.sql" />
+        <option value="$PROJECT_DIR$/src/main/java/com/FOO.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="creditservice" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="creditservice" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="creditservice" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="creditservice" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+          <item name="com.udatech.creditservice:creditservice-subject:4.2.0" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" x="52" y="52" width="1314" height="574" extendedState="6" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1" />
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="石家庄-二期-公信力" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CreditService-all" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="石家庄-二期-公信力" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CreditService-all" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="石家庄-二期-公信力" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CreditService-all" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="石家庄-二期-公信力" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CreditService-all" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="石家庄-二期-公信力" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CreditService-all" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="145308000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17405267" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Persistence" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Web" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info active="true" anchor="bottom" id="Find" order="1" visible="true" weight="0.32894737" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32894737" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="7" />
+      <window_info anchor="bottom" id="Build" order="8" />
+      <window_info anchor="bottom" id="Spring" order="9" />
+      <window_info anchor="bottom" id="Services" order="10" weight="0.3381579" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.50043666" side_tool="true" weight="0.25657895" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" weight="0.32894737" />
+      <window_info anchor="bottom" id="Database Changes" order="14" />
+      <window_info anchor="bottom" id="Version Control" order="15" sideWeight="0.4995633" weight="0.18947369" />
+      <window_info anchor="bottom" id="Endpoints" order="16" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="17" weight="0.32894737" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Ant" order="3" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.44894028" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="RestServices" order="7" />
+      <window_info anchor="right" id="Bean Validation" order="8" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://F:/maven.m2/repository/com/udatech/creditservice/creditservice-data-process/4.2.0/creditservice-data-process-4.2.0-sources.jar!/com/udatech/common/taskManage/controller/CollectionTaskController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4998">
+          <caret line="288" column="72" selection-start-line="288" selection-start-column="72" selection-end-line="288" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/maven.m2/repository/com/udatech/creditservice/creditservice-data-process/4.2.0/creditservice-data-process-4.2.0-sources.jar!/com/udatech/common/taskManage/service/CollectionTaskService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7245">
+          <caret line="384" column="46" selection-start-line="384" selection-start-column="46" selection-end-line="384" selection-end-column="46" />
+          <folding>
+            <element signature="e#13686#13687#0" expanded="true" />
+            <element signature="e#13756#13757#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/udatech/common/taskManage/dao/CollectionTaskDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20559">
+          <caret line="998" column="31" selection-start-line="998" selection-start-column="31" selection-end-line="998" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/udatech/common/controller/CreditCommonController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="64" column="25" selection-start-line="64" selection-start-column="25" selection-end-line="64" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/maven.m2/repository/com/udatech/creditservice/creditservice-common/4.2.0/creditservice-common-4.2.0-sources.jar!/com/udatech/common/service/CreditCommonService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/maven.m2/repository/com/udatech/creditservice/creditservice-common/4.2.0/creditservice-common-4.2.0-sources.jar!/com/udatech/common/service/impl/CreditCommonServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2709">
+          <caret line="181" column="72" selection-start-line="181" selection-start-column="72" selection-end-line="181" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/udatech/common/dataReport/service/impl/DataReportServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12012">
+          <caret line="660" column="72" selection-start-line="660" selection-start-column="72" selection-end-line="660" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/udatech/common/dataReport/controller/HistoryDataReportController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9786">
+          <caret line="525" column="48" selection-start-line="525" selection-start-column="48" selection-end-line="525" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/udatech/common/dataReport/dao/impl/DataReportDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17787">
+          <caret line="876" column="49" selection-start-line="876" selection-start-column="49" selection-end-line="876" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/properties/app.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1785">
+          <caret line="85" column="22" selection-start-line="85" selection-start-column="22" selection-end-line="85" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/overlays/com.udatech.creditservice.creditservice-achievements-4.2.0/WEB-INF/classes/com/udatech/common/enmu/CreditDataStatusEnum.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="18" column="12" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/maven.m2/repository/com/udatech/creditservice/creditservice-common/4.2.0/creditservice-common-4.2.0-sources.jar!/com/wa/framework/common/service/impl/CommonServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="65" column="20" selection-start-line="65" selection-start-column="20" selection-end-line="65" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/maven.m2/repository/com/udatech/creditservice/creditservice-common/4.2.0/creditservice-common-4.2.0-sources.jar!/com/wa/framework/security/shiro/ShiroCasRealm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/maven.m2/repository/com/udatech/creditservice/creditservice-common/4.2.0/creditservice-common-4.2.0-sources.jar!/com/wa/framework/common/service/BsMountService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/maven.m2/repository/com/udatech/creditservice/creditservice-common/4.2.0/creditservice-common-4.2.0-sources.jar!/com/wa/framework/common/service/impl/BsMountServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/maven.m2/repository/com/wa/framework/waFramework-core/1.3.0.2/waFramework-core-1.3.0.2-sources.jar!/com/wa/framework/util/ObjectUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1533">
+          <caret line="84" column="26" selection-start-line="84" selection-start-column="26" selection-end-line="84" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/maven.m2/repository/com/udatech/creditservice/creditservice-common/4.2.0/creditservice-common-4.2.0-sources.jar!/com/udatech/common/constant/Constants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5964">
+          <caret line="284" column="28" selection-start-line="284" selection-start-column="28" selection-end-line="284" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/maven.m2/repository/com/wa/framework/waFramework-core/1.3.0.2/waFramework-core-1.3.0.2-sources.jar!/com/wa/framework/dao/BaseDaoSupport.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13146">
+          <caret line="670" column="49" selection-start-line="670" selection-start-column="40" selection-end-line="670" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/udatech/common/statisAnalyze/controller/DataSizeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2373">
+          <caret line="149" column="44" selection-start-line="149" selection-start-column="44" selection-end-line="149" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/udatech/common/statisAnalyze/service/impl/DataSizeServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1323">
+          <caret line="84" column="48" selection-start-line="84" selection-start-column="48" selection-end-line="84" selection-end-column="48" />
+          <folding>
+            <element signature="e#2573#2574#0" expanded="true" />
+            <element signature="e#2651#2652#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/udatech/common/statisAnalyze/dao/impl/DataSizeDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7623">
+          <caret line="381" selection-start-line="381" selection-end-line="381" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/udatech/common/statisAnalyze/vo/StatisticsCriteria.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/document/3.数据库更新脚本/数据量计算-存储过程修改20210606.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="91" column="36" selection-start-line="91" selection-start-column="36" selection-end-line="91" selection-end-column="36" />
+          <folding>
+            <element signature="e#5732#5740#0" expanded="true" />
+            <element signature="e#6069#6078#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/document/石家庄二期版本升级脚本/20210616数据上报存错过程修改-重复量不含已删的.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="142" column="53" selection-start-line="142" selection-start-column="53" selection-end-line="142" selection-end-column="53" />
+          <folding>
+            <element signature="e#13099#13107#0" expanded="true" />
+            <element signature="e#13499#13508#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/maven.m2/repository/org/apache/shiro/shiro-core/1.7.0/shiro-core-1.7.0-sources.jar!/org/apache/shiro/authc/UsernamePasswordToken.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="109" column="11" selection-start-line="109" selection-start-column="11" selection-end-line="109" selection-end-column="11" />
+          <folding>
+            <element signature="e#5015#5016#0" expanded="true" />
+            <element signature="e#5108#5109#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wa/framework/common/controller/IndexController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="125" selection-start-line="125" selection-end-line="125" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wa/framework/security/shiro/ShiroCasRealm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="896">
+          <caret line="71" column="38" selection-start-line="71" selection-start-column="26" selection-end-line="71" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/overlays/com.udatech.creditservice.creditservice-common-4.2.0/WEB-INF/classes/com/wa/framework/security/shiro/CustomCredentialsMatcher.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="38" column="39" selection-start-line="38" selection-start-column="34" selection-end-line="38" selection-end-column="43" />
+          <folding>
+            <element signature="e#0#1755#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/maven.m2/repository/com/wa/framework/waFramework-core/1.3.0.2/waFramework-core-1.3.0.2-sources.jar!/com/wa/framework/util/CodeUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/maven.m2/repository/com/wa/framework/waFramework-core/1.3.0.2/waFramework-core-1.3.0.2-sources.jar!/com/wa/framework/util/SecurityUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/FOO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="107" lean-forward="true" selection-start-line="10" selection-start-column="107" selection-end-line="10" selection-end-column="107" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

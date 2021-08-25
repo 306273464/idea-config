@@ -1,0 +1,697 @@
+<project version="4">
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/document/3.数据库更新脚本/V4.2.1/credit-service-v4.2.1.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="232">
+              <caret line="248" column="22" selection-start-line="248" selection-start-column="22" selection-end-line="248" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/document/3.数据库更新脚本/V3.3.2/credit-service-v3.3.2.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="359">
+              <caret line="59" column="7" selection-start-line="59" selection-start-column="7" selection-end-line="59" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/FOO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="273">
+              <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/document/2.数据库初始化脚本/02-industry-classification.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="231">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/document/2.数据库初始化脚本/03-credit-yw.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="206535">
+              <caret line="9835" column="34" selection-end-line="9867" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/document/2.数据库初始化脚本/04-resource-base.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="81228">
+              <caret line="3868" selection-start-line="3868" selection-end-line="3868" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/document/2.数据库初始化脚本/05-data-report.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="8816" column="83" selection-start-line="8816" selection-start-column="83" selection-end-line="8816" selection-end-column="83" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/document/2.数据库初始化脚本/97-dblink.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="231">
+              <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/document/2.数据库初始化脚本/98-数据目录模板数据初始化.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="4" column="60" selection-start-line="4" selection-start-column="60" selection-end-line="4" selection-end-column="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/document/3.数据库更新脚本/V4.0.0/credit-service-v4.0.0.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="48510">
+              <caret line="2310" column="44" selection-start-line="2310" selection-start-column="44" selection-end-line="2310" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="6300">
+              <caret line="300" column="10" selection-start-line="300" selection-start-column="10" selection-end-line="300" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/document/3.数据库更新脚本/V4.1.0/credit-service-v4.1.0.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="567">
+              <caret line="27" column="50" selection-start-line="27" selection-start-column="50" selection-end-line="27" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/document/3.数据库更新脚本/V4.1.1/credit-service-v4.1.1.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/document/3.数据库更新脚本/V4.2.0/credit-service-v4.2.0.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="52059">
+              <caret line="2479" selection-start-line="1929" selection-end-line="2479" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/document/2.数据库初始化脚本/01-sys-base.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="6993">
+              <caret line="333" column="41" selection-start-line="333" selection-start-column="41" selection-end-line="333" selection-end-column="41" />
+              <folding>
+                <element signature="e#51244#51250#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/document/2.数据库初始化脚本/readme.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/document/3.数据库更新脚本/V4.2.0/原始库执行.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4221">
+              <caret line="201" column="32" selection-start-line="201" selection-start-column="32" selection-end-line="201" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/document/2.数据库初始化脚本/原始库执行.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="273">
+              <caret line="13" column="32" selection-end-line="390" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/document/2.数据库初始化脚本/有效库执行.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/document/3.数据库更新脚本/V4.2.0/有效库执行.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3087">
+              <caret line="147" column="32" selection-start-line="147" selection-start-column="32" selection-end-line="147" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>dz_theme</find>
+      <find>YW_L_JGSLBGDJ</find>
+      <find>自用申请</find>
+      <find>ROOT_0</find>
+      <find>YW_L_AJNSRMD</find>
+      <find>4.1.2</find>
+      <find>YW_L_SXBZXRMDXX</find>
+      <find>初始化</find>
+      <find>dp_rule</find>
+      <find>初始化信用报告</find>
+      <find>发布时间</find>
+      <find>40288c81611b845e01611b8e7fa9000d</find>
+      <find>YW_P_SXBZXRMDXX</find>
+      <find>YW_L_ZRRZDSSWFAJXX</find>
+      <find>4028946a77f233e90177f2de2e3900c0</find>
+      <find>XZCF</find>
+      <find>失信严重程度</find>
+      <find>YW_L_SHFRZDSSWFAJXX</find>
+      <find>job</find>
+      <find>_job</find>
+      <find>SYS_USER</find>
+      <find>DZ_CREDIT_TEMPLATE</find>
+      <find>view_version_table_dept</find>
+      <find>sys_dictionary</find>
+      <find>ssqy</find>
+      <find>SYS_DEPARTMENT</find>
+      <find>dz_credit_template</find>
+      <find>信用报告管理</find>
+      <find>p_dp_data_size_calc</find>
+      <find>p_dp_process_result_calc</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>4.1.1</replace>
+      <replace>4.2.0</replace>
+      <replace>立案时间</replace>
+      <replace>sysdate</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/resources/spring/spring-context-shiro.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/properties/app.properties" />
+        <option value="$PROJECT_DIR$/document/3.数据库更新脚本/V4.1.1/credit-service-v4.1.1.sql" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/document/3.数据库更新脚本/V4.2.0/原始库执行.sql" />
+        <option value="$PROJECT_DIR$/document/3.数据库更新脚本/V4.2.0/有效库执行.sql" />
+        <option value="$PROJECT_DIR$/document/2.数据库初始化脚本/03-credit-yw.sql" />
+        <option value="$PROJECT_DIR$/document/3.数据库更新脚本/V4.2.0/credit-service-v4.2.0.sql" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/document/2.数据库初始化脚本/04-resource-base.sql" />
+        <option value="$PROJECT_DIR$/document/2.数据库初始化脚本/01-sys-base.sql" />
+        <option value="$PROJECT_DIR$/document/3.数据库更新脚本/V4.2.1/credit-service-v4.2.1.sql" />
+        <option value="$PROJECT_DIR$/document/2.数据库初始化脚本/05-data-report.sql" />
+        <option value="$PROJECT_DIR$/src/main/java/com/FOO.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="creditservice" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="creditservice" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="creditservice" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" x="100" y="20" width="1400" height="820" extendedState="6" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="产品-公信力-all" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CreditService-all" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="产品-公信力-all" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CreditService-all" type="462c0819:PsiDirectoryNode" />
+              <item name="document" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="产品-公信力-all" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CreditService-all" type="462c0819:PsiDirectoryNode" />
+              <item name="document" type="462c0819:PsiDirectoryNode" />
+              <item name="2.数据库初始化脚本" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="产品-公信力-all" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CreditService-all" type="462c0819:PsiDirectoryNode" />
+              <item name="document" type="462c0819:PsiDirectoryNode" />
+              <item name="3.数据库更新脚本" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="产品-公信力-all" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CreditService-all" type="462c0819:PsiDirectoryNode" />
+              <item name="document" type="462c0819:PsiDirectoryNode" />
+              <item name="3.数据库更新脚本" type="462c0819:PsiDirectoryNode" />
+              <item name="V3.3.0" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="产品-公信力-all" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CreditService-all" type="462c0819:PsiDirectoryNode" />
+              <item name="document" type="462c0819:PsiDirectoryNode" />
+              <item name="3.数据库更新脚本" type="462c0819:PsiDirectoryNode" />
+              <item name="V3.3.2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="产品-公信力-all" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CreditService-all" type="462c0819:PsiDirectoryNode" />
+              <item name="document" type="462c0819:PsiDirectoryNode" />
+              <item name="3.数据库更新脚本" type="462c0819:PsiDirectoryNode" />
+              <item name="V3.4.0" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="产品-公信力-all" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CreditService-all" type="462c0819:PsiDirectoryNode" />
+              <item name="document" type="462c0819:PsiDirectoryNode" />
+              <item name="3.数据库更新脚本" type="462c0819:PsiDirectoryNode" />
+              <item name="V3.4.1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="产品-公信力-all" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CreditService-all" type="462c0819:PsiDirectoryNode" />
+              <item name="document" type="462c0819:PsiDirectoryNode" />
+              <item name="3.数据库更新脚本" type="462c0819:PsiDirectoryNode" />
+              <item name="V4.0.0" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="产品-公信力-all" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CreditService-all" type="462c0819:PsiDirectoryNode" />
+              <item name="document" type="462c0819:PsiDirectoryNode" />
+              <item name="3.数据库更新脚本" type="462c0819:PsiDirectoryNode" />
+              <item name="V4.1.0" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="产品-公信力-all" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CreditService-all" type="462c0819:PsiDirectoryNode" />
+              <item name="document" type="462c0819:PsiDirectoryNode" />
+              <item name="3.数据库更新脚本" type="462c0819:PsiDirectoryNode" />
+              <item name="V4.1.1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="产品-公信力-all" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CreditService-all" type="462c0819:PsiDirectoryNode" />
+              <item name="document" type="462c0819:PsiDirectoryNode" />
+              <item name="3.数据库更新脚本" type="462c0819:PsiDirectoryNode" />
+              <item name="V4.2.0" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="产品-公信力-all" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CreditService-all" type="462c0819:PsiDirectoryNode" />
+              <item name="document" type="462c0819:PsiDirectoryNode" />
+              <item name="3.数据库更新脚本" type="462c0819:PsiDirectoryNode" />
+              <item name="V4.2.1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="产品-公信力-all" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CreditService-all" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="产品-公信力-all" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CreditService-all" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="产品-公信力-all" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CreditService-all" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="产品-公信力-all" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CreditService-all" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="产品-公信力-all" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CreditService-all" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="产品-公信力-all" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="149319000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33333334" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Persistence" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Web" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.28421053" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="7" />
+      <window_info anchor="bottom" id="Build" order="8" weight="0.32894737" />
+      <window_info anchor="bottom" id="Spring" order="9" />
+      <window_info anchor="bottom" id="Services" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.5009634" side_tool="true" visible="true" weight="0.29605263" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="bottom" id="Database Changes" order="14" />
+      <window_info anchor="bottom" id="Version Control" order="15" sideWeight="0.4990366" visible="true" weight="0.29605263" />
+      <window_info anchor="bottom" id="Endpoints" order="16" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Ant" order="3" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.20423892" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="RestServices" order="7" />
+      <window_info anchor="right" id="Bean Validation" order="8" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/target/CreditService-all/WEB-INF/jsp/index.jsp" />
+    <entry file="file://$PROJECT_DIR$/target/CreditService-all/app/js/common/index.js" />
+    <entry file="jar://$MAVEN_REPOSITORY$/com/udatech/creditservice/creditservice-common/4.2.0/creditservice-common-4.2.0.war!/app/js/common/index.js" />
+    <entry file="file://$PROJECT_DIR$/document/3.数据库更新脚本/V3.3.0/credit-service-v3.3.0.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-56" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/公信力4.2.0-上报记录列表.sql" />
+    <entry file="file://$PROJECT_DIR$/document/3.数据库更新脚本/V3.4.0/credit-service-v3.4.0.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17976">
+          <caret line="1225" column="83" selection-start-line="1225" selection-start-column="83" selection-end-line="1225" selection-end-column="83" />
+          <folding>
+            <element signature="e#8863#14274#0" />
+            <element signature="e#14345#23157#0" />
+            <element signature="e#23367#23862#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/document/3.数据库更新脚本/V3.4.1/credit-service-v3.4.1.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" column="38" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/document/3.数据库更新脚本/V4.2.1/credit-service-v4.2.1.sql.mine" />
+    <entry file="file://$PROJECT_DIR$/document/3.数据库更新脚本/V4.2.1/credit-service-v4.2.1.sql.r205158" />
+    <entry file="file://$PROJECT_DIR$/document/3.数据库更新脚本/V4.2.1/credit-service-v4.2.1.sql.r204241" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/document/2.数据库初始化脚本/02-industry-classification.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/document/2.数据库初始化脚本/03-credit-yw.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206535">
+          <caret line="9835" column="34" selection-end-line="9867" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/document/2.数据库初始化脚本/04-resource-base.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81228">
+          <caret line="3868" selection-start-line="3868" selection-end-line="3868" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/document/2.数据库初始化脚本/97-dblink.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/document/2.数据库初始化脚本/98-数据目录模板数据初始化.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="60" selection-start-line="4" selection-start-column="60" selection-end-line="4" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/document/3.数据库更新脚本/V4.0.0/credit-service-v4.0.0.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48510">
+          <caret line="2310" column="44" selection-start-line="2310" selection-start-column="44" selection-end-line="2310" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6300">
+          <caret line="300" column="10" selection-start-line="300" selection-start-column="10" selection-end-line="300" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/document/3.数据库更新脚本/V4.1.0/credit-service-v4.1.0.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="27" column="50" selection-start-line="27" selection-start-column="50" selection-end-line="27" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/document/3.数据库更新脚本/V4.1.1/credit-service-v4.1.1.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/document/3.数据库更新脚本/V4.2.0/credit-service-v4.2.0.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52059">
+          <caret line="2479" selection-start-line="1929" selection-end-line="2479" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/document/2.数据库初始化脚本/01-sys-base.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6993">
+          <caret line="333" column="41" selection-start-line="333" selection-start-column="41" selection-end-line="333" selection-end-column="41" />
+          <folding>
+            <element signature="e#51244#51250#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/document/2.数据库初始化脚本/readme.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/document/3.数据库更新脚本/V4.2.0/原始库执行.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4221">
+          <caret line="201" column="32" selection-start-line="201" selection-start-column="32" selection-end-line="201" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/document/2.数据库初始化脚本/原始库执行.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" column="32" selection-end-line="390" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/document/2.数据库初始化脚本/有效库执行.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/document/3.数据库更新脚本/V4.2.0/有效库执行.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3087">
+          <caret line="147" column="32" selection-start-line="147" selection-start-column="32" selection-end-line="147" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/document/2.数据库初始化脚本/05-data-report.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="8816" column="83" selection-start-line="8816" selection-start-column="83" selection-end-line="8816" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/document/3.数据库更新脚本/V4.2.1/credit-service-v4.2.1.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="248" column="22" selection-start-line="248" selection-start-column="22" selection-end-line="248" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/document/3.数据库更新脚本/V3.3.2/credit-service-v3.3.2.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="59" column="7" selection-start-line="59" selection-start-column="7" selection-end-line="59" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/FOO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>creditservice</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

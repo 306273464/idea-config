@@ -1,0 +1,9 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="mybatisCodeHelper" shouldLog="false" />
+    <notification groupId="Platform and Plugin Updates" displayType="STICKY_BALLOON" shouldLog="false" />
+    <notification groupId="Recommend Tabnine" displayType="STICKY_BALLOON" shouldLog="false" />
+    <notification groupId="Spring Configuration Check" displayType="NONE" shouldLog="false" />
+    <notification groupId="平台和插件更新" displayType="NONE" shouldLog="false" />
+  </component>
+</application>
